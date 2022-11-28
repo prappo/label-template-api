@@ -2,7 +2,7 @@ const https = require("https");
 const fs = require("fs");
 const cheerio = require("cheerio");
 
-const rect = require("./dummy/square.json");
+const rect = require("./dummy/round.json");
 
 const request = require("request-promise-native");
 const path = require("path");
@@ -35,22 +35,22 @@ async function sleep(millis) {
 
 // image downloader
 
-// rect.datatable.forEach(item => {
-//     const url = item.ImgSrc_Col5_1;
-//     // console.log(url)
-//     https.get(url,(res) => {
-//         var filename = item.ImgSrc_Col5_1.replace(/^.*[\\\/]/, '')
-//         // Image will be stored at this path
-//         console.log(filename)
-//         const path = `${__dirname}/assets/${filename}`;
-//         const filePath = fs.createWriteStream(path);
-//         res.pipe(filePath);
-//         filePath.on('finish',() => {
-//             filePath.close();
-//             console.log('Download Completed');
-//         })
-//     })
-// })
+rect.datatable.forEach(item => {
+    const url = item.ImgSrc_Col5_1;
+    // console.log(url)
+    https.get(url,(res) => {
+        var filename = item.ImgSrc_Col5_1.replace(/^.*[\\\/]/, '')
+        // Image will be stored at this path
+        console.log(filename)
+        const path = `${__dirname}/assets/${filename}`;
+        const filePath = fs.createWriteStream(path);
+        res.pipe(filePath);
+        filePath.on('finish',() => {
+            filePath.close();
+            console.log('Download Completed');
+        })
+    })
+})
 
 // scraper
 
@@ -114,4 +114,4 @@ async function scrapData() {
   storeData(originalData,path)
 }
 
-scrapData();
+// scrapData();
