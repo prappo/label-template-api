@@ -1000,19 +1000,6 @@
     "preview": "sl541.svg"
   },
   {
-    "labels_size": "3.5\" x 3.0\", 3.4833\" x 1.4445\" Beer",
-    "top_margin": "0.6065\"",
-    "vertical_spacing": "0.2945\"",
-    "corners": "N/A",
-    "right_margin": "0.5072\"",
-    "horizontal_spacing": "0.4855\"",
-    "sheet_size": "8.5\" x 11\"",
-    "bottom_margin": "0.6065\"",
-    "labels_per_sheet": "8",
-    "left_margin": "0.5072\"",
-    "preview": "sl1164.svg"
-  },
-  {
     "labels_size": "2.25\" x 1.25\"",
     "top_margin": "0.3\"",
     "vertical_spacing": "0.275\"",
@@ -2527,19 +2514,7 @@
     "left_margin": "0.25\"",
     "preview": "sl652.svg"
   },
-  {
-    "labels_size": "6.75\" X 4.75\" Click-N-Ship",
-    "top_margin": "0.375\"",
-    "vertical_spacing": "0.4375\"",
-    "corners": "Rounded",
-    "right_margin": "1.125\"",
-    "horizontal_spacing": "0\"",
-    "sheet_size": "8.5\" x 11\"",
-    "bottom_margin": "1.6875\"",
-    "labels_per_sheet": "2",
-    "left_margin": "0.625\"",
-    "preview": "sl519.svg"
-  },
+ 
   {
     "labels_size": "5.75\" x 10.5\"",
     "top_margin": "0.25\"",
@@ -2642,19 +2617,7 @@
     "left_margin": "0.5\"",
     "preview": "sl9300.svg"
   },
-  {
-    "labels_size": "8.50\" x 9.50\", 2.83\" x 1.00\" Integrated",
-    "top_margin": "0\"",
-    "vertical_spacing": "0\"",
-    "corners": "Square",
-    "right_margin": "0\"",
-    "horizontal_spacing": "0\"",
-    "sheet_size": "8.5\" x 11\"",
-    "bottom_margin": "0.5\"",
-    "labels_per_sheet": "4",
-    "left_margin": "0\"",
-    "preview": "sl618.svg"
-  },
+
   {
     "labels_size": "3.25\" x 2.25\"",
     "top_margin": "0.625\"",
@@ -2888,19 +2851,6 @@
     "labels_per_sheet": "1",
     "left_margin": "1.375\"",
     "preview": "sl668.svg"
-  },
-  {
-    "labels_size": "2.625\" x 5.875\"",
-    "top_margin": "0.75\"",
-    "vertical_spacing": "1\"",
-    "corners": "Rounded",
-    "right_margin": "0.25\"",
-    "horizontal_spacing": "0.0625\"",
-    "sheet_size": "8.5\" x 11\"",
-    "bottom_margin": "0.75\"",
-    "labels_per_sheet": "4",
-    "left_margin": "0.25\"",
-    "preview": "sl150.svg"
   },
   {
     "labels_size": "3.625\" x 1.375\"",
@@ -3189,19 +3139,6 @@
     "preview": "sl1604.svg"
   },
   {
-    "labels_size": "7.25\" x 3.75\" Sealed Lid",
-    "top_margin": "1.125\"",
-    "vertical_spacing": "0.25\"",
-    "corners": "Rounded",
-    "right_margin": "0.625\"",
-    "horizontal_spacing": "0.25\"",
-    "sheet_size": "8.5\" x 11\"",
-    "bottom_margin": "1.125\"",
-    "labels_per_sheet": "2",
-    "left_margin": "0.625\"",
-    "preview": "sl601.jpg"
-  },
-  {
     "labels_size": "8.5\" x 12\"",
     "top_margin": "0\"",
     "vertical_spacing": "0\"",
@@ -3266,31 +3203,7 @@
     "left_margin": "0.5\"",
     "preview": "sl1426.svg"
   },
-  {
-    "labels_size": "1.75\" X 0.5\" VP on 17\" Sheet",
-    "top_margin": "0.333\"",
-    "vertical_spacing": "0\"",
-    "corners": "Rounded",
-    "horizontal_spacing": "0.281\"",
-    "sheet_size": "11\" x 17\"",
-    "bottom_margin": "0.333\"",
-    "labels_per_sheet": "160",
-    "left_margin": "0.5\"",
-    "preview": "sl9105hp_horizontal_perf.jpg"
-  },
-  {
-    "labels_size": "2.1875\" x 1.625\"",
-    "top_margin": "0.90625\"",
-    "vertical_spacing": "0\"",
-    "corners": "Rounded",
-    "right_margin": "0\"",
-    "horizontal_spacing": "0\"",
-    "sheet_size": "8.5\" x 11\"",
-    "bottom_margin": "0.90625\"",
-    "labels_per_sheet": "12",
-    "left_margin": "0\"",
-    "preview": "sl202.jpg"
-  },
+  
   {
     "labels_size": "1.25\" x 1\"",
     "top_margin": "0.625\"",
@@ -3407,19 +3320,6 @@
     "labels_per_sheet": "192",
     "left_margin": "0.58\"",
     "preview": "sl680.svg"
-  },
-  {
-    "labels_size": "3\" x 3\"",
-    "top_margin": "0.88\"",
-    "vertical_spacing": "0.125\"",
-    "corners": "Rounded",
-    "right_margin": "1.1875\"",
-    "horizontal_spacing": "0.125\"",
-    "sheet_size": "8.5\" x 11\"",
-    "bottom_margin": "0.88\"",
-    "labels_per_sheet": "6",
-    "left_margin": "1.1875\"",
-    "preview": "sl390.svg"
   },
   {
     "labels_size": "1.25\" X 1.25\"",
