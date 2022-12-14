@@ -26,6 +26,19 @@
     "left_margin": "0",
     "preview": "tissuebox"
   },
+  {
+    "labels_size": "8.5\" x 11\"",
+    "top_margin": "0.5\"",
+    "vertical_spacing": "0\"",
+    "corners": "N/A",
+    "right_margin": "0",
+    "horizontal_spacing": "0",
+    "sheet_size": "8.5\" x 11\"",
+    "bottom_margin": "0",
+    "labels_per_sheet": "1",
+    "left_margin": "0",
+    "preview": "tissueboxsquare"
+  },
 
   {
     "labels_size": "8.5\" x 11\"",
