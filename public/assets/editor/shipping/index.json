@@ -1,14 +1,17 @@
 [
   {
     "type": "template",
-    "preview": "templates/template1/preview.png"
+    "preview": "templates/template1/preview.png",
+    "path":"templates/template1/template.json"
   },
   {
     "type": "template",
-    "preview": "templates/template2/preview.png"
+    "preview": "templates/template2/preview.png",
+    "path":"templates/template2/template.json"
   },
   {
     "type": "template",
-    "preview": "templates/template3/preview.png"
+    "preview": "templates/template3/preview.png",
+    "path":"templates/template3/template.json"
   }
 ]
