@@ -1,0 +1,564 @@
+{
+    "type": "template",
+    "preview": "preview.png",
+    "data": {
+      "attrs": {
+        "height": 819.4999999999999,
+        "width": 655.5999999999999,
+        "scaleX": 2.2763888888888886,
+        "scaleY": 2.2763888888888886
+      },
+      "className": "Stage",
+      "children": [
+        {
+          "attrs": { "name": "backgroundLayer" },
+          "className": "Layer",
+          "children": [
+            {
+              "attrs": {
+                "width": 1318,
+                "height": 1647.5000000000002,
+                "fill": "#ffffffff",
+                "name": "stageBackground",
+                "scaleX": 4.576388888888889,
+                "scaleY": 4.576388888888889
+              },
+              "className": "Rect"
+            }
+          ]
+        },
+        {
+          "attrs": { "name": "gridLayer" },
+          "className": "Layer",
+          "children": []
+        },
+        {
+          "attrs": { "name": "rulerLayer" },
+          "className": "Layer",
+          "children": []
+        },
+        {
+          "attrs": { "name": "mainLayer" },
+          "className": "Layer",
+          "children": [
+            {
+              "attrs": {
+                "x": 11.065106651597919,
+                "y": 9.999999999999838,
+                "width": 265.2355151924545,
+                "height": 340.4339145608583,
+                "fill": "#3c81f600",
+                "stroke": "#0f0f0f0",
+                "strokeWidth": 6,
+                "strokeScaleEnabled": false,
+                "draggable": true,
+                "type": "rect",
+                "cornerRadius": ["10", "10", "10", "10"],
+                "name": "Rect_2"
+              },
+              "className": "Rect"
+            },
+            {
+              "attrs": {
+                "x": 11.06510665159754,
+                "y": 126.26660296591564,
+                "width": 265.0930430577536,
+                "height": 77.70399969835334,
+                "fill": "#3c81f600",
+                "stroke": "#0f0f0f0",
+                "strokeWidth": 6,
+                "strokeScaleEnabled": false,
+                "draggable": true,
+                "type": "rect",
+                "cornerRadius": [0, 0, 0, 0],
+                "name": "Rect_3"
+              },
+              "className": "Rect"
+            },
+            {
+              "attrs": {
+                "x": 11.333740085417933,
+                "y": 203.51932518340143,
+                "width": 265.0930430577536,
+                "height": 45.616099555370134,
+                "fill": "#3c81f600",
+                "stroke": "#0f0f0f0",
+                "strokeWidth": 6,
+                "strokeScaleEnabled": false,
+                "draggable": true,
+                "type": "rect",
+                "cornerRadius": [0, 0, 0, 0],
+                "name": "Rect_3"
+              },
+              "className": "Rect"
+            },
+            {
+              "attrs": {
+                "x": 11.333740085417851,
+                "y": 249.12370753383334,
+                "width": 265.09304305775146,
+                "height": 33.17912747359171,
+                "fill": "#3c81f600",
+                "stroke": "#0f0f0f0",
+                "strokeWidth": 6,
+                "strokeScaleEnabled": false,
+                "draggable": true,
+                "type": "rect",
+                "cornerRadius": [0, 0, 0, 0],
+                "name": "Rect_3"
+              },
+              "className": "Rect"
+            },
+            {
+              "attrs": {
+                "x": 12.00619346820968,
+                "y": 127.33521005461262,
+                "width": 76.81329707381708,
+                "height": 75.80925362621451,
+                "draggable": true,
+                "type": "qrcode",
+                "qrvalue": "hello",
+                "strokeScaleEnabled": false,
+                "name": "QRcode_2",
+                "fill": "#ffffffff",
+                "stroke": "#0e0c0c",
+                "strokeWidth": 7
+              },
+              "className": "Image"
+            },
+            {
+              "attrs": {
+                "type": "text",
+                "x": 93.97118758537722,
+                "y": 136.8686469614402,
+                "text": "WI 5432-03",
+                "fontSize": 22,
+                "fontFamily": "Open Sans",
+                "fill": "#000000",
+                "stroke": "#000000",
+                "strokeWidth": 0,
+                "draggable": true,
+                "name": "Text_1",
+                "fontStyle": "bold",
+                "width": 176.49383029116697,
+                "height": 21.999999999999943,
+                "align": "center"
+              },
+              "className": "Text"
+            },
+            {
+              "attrs": {
+                "type": "barcodeBasic",
+                "x": 101.23792497257351,
+                "y": 172.02015105585335,
+                "text": "*WI 5432-03*",
+                "fontSize": 33,
+                "fontFamily": "Libre Barcode 39",
+                "fill": "#000000",
+                "stroke": "#000000",
+                "strokeWidth": 0,
+                "strokeScaleEnabled": false,
+                "draggable": true,
+                "name": "Barcode_1",
+                "width": 160.00490735996317,
+                "height": 26.565651354837666,
+                "align": "center"
+              },
+              "className": "Text"
+            },
+            {
+              "attrs": {
+                "type": "text",
+                "x": 30,
+                "y": 30,
+                "text": "Company Name",
+                "fontSize": 8,
+                "fontFamily": "Open Sans",
+                "fill": "#000000",
+                "stroke": "#000000",
+                "strokeWidth": 0,
+                "draggable": true,
+                "name": "Text_2",
+                "height": 6.87850497491603
+              },
+              "className": "Text"
+            },
+            {
+              "attrs": {
+                "type": "text",
+                "x": 30,
+                "y": 40,
+                "text": "777 Executive Drive",
+                "fontSize": 8,
+                "fontFamily": "Open Sans",
+                "fill": "#000000",
+                "stroke": "#000000",
+                "strokeWidth": 0,
+                "draggable": true,
+                "name": "Text_2",
+                "width": 59.95703125,
+                "height": 6.87850497491603
+              },
+              "className": "Text"
+            },
+            {
+              "attrs": {
+                "x": 150,
+                "y": 50,
+                "width": 89.23208334468985,
+                "height": 27.19625705128716,
+                "fill": "#ee252500",
+                "stroke": "#ff0000",
+                "strokeWidth": 6,
+                "strokeScaleEnabled": false,
+                "draggable": true,
+                "type": "rect",
+                "cornerRadius": ["10", "10", "10", "10"],
+                "name": "Rect_4"
+              },
+              "className": "Rect"
+            },
+            {
+              "attrs": {
+                "type": "text",
+                "x": 30,
+                "y": 50,
+                "text": "Brooklin 234005",
+                "fontSize": 8,
+                "fontFamily": "Open Sans",
+                "fill": "#000000",
+                "stroke": "#000000",
+                "strokeWidth": 0,
+                "draggable": true,
+                "name": "Text_2",
+                "width": 77.52263463302091,
+                "height": 6.878504974916019
+              },
+              "className": "Text"
+            },
+            {
+              "attrs": {
+                "type": "text",
+                "x": 30,
+                "y": 70,
+                "text": "SHIP TO",
+                "fontSize": 10,
+                "fontFamily": "Open Sans",
+                "fill": "#000000",
+                "stroke": "#000000",
+                "strokeWidth": 0,
+                "draggable": true,
+                "name": "Text_3",
+                "fontStyle": "bold"
+              },
+              "className": "Text"
+            },
+            {
+              "attrs": {
+                "type": "text",
+                "x": 60,
+                "y": 80,
+                "text": "Sam Martin",
+                "fontSize": 8,
+                "fontFamily": "Open Sans",
+                "fill": "#000000",
+                "stroke": "#000000",
+                "strokeWidth": 0,
+                "draggable": true,
+                "name": "Text_2",
+                "width": 59.95703125,
+                "height": 6.87850497491603
+              },
+              "className": "Text"
+            },
+            {
+              "attrs": {
+                "type": "text",
+                "x": 60,
+                "y": 90,
+                "text": "Apt. 5",
+                "fontSize": 8,
+                "fontFamily": "Open Sans",
+                "fill": "#000000",
+                "stroke": "#000000",
+                "strokeWidth": 0,
+                "draggable": true,
+                "name": "Text_2",
+                "width": 59.95703125,
+                "height": 6.87850497491603
+              },
+              "className": "Text"
+            },
+            {
+              "attrs": {
+                "type": "text",
+                "x": 60,
+                "y": 100,
+                "text": "100 Main Street",
+                "fontSize": 8,
+                "fontFamily": "Open Sans",
+                "fill": "#000000",
+                "stroke": "#000000",
+                "strokeWidth": 0,
+                "draggable": true,
+                "name": "Text_2",
+                "width": 59.95703125,
+                "height": 6.87850497491603
+              },
+              "className": "Text"
+            },
+            {
+              "attrs": {
+                "type": "text",
+                "x": 60.0000000000001,
+                "y": 110.00000000000007,
+                "text": "Milwaukee 3452",
+                "fontSize": 8,
+                "fontFamily": "Open Sans",
+                "fill": "#000000",
+                "stroke": "#000000",
+                "strokeWidth": 0,
+                "draggable": true,
+                "name": "Text_2",
+                "fontStyle": "bold",
+                "width": 76.775162148637,
+                "height": 6.878504974916025
+              },
+              "className": "Text"
+            },
+            {
+              "attrs": {
+                "type": "text",
+                "x": 131.32625189681335,
+                "y": 14.754098843836141,
+                "text": "5 LBS",
+                "fontSize": 10,
+                "fontFamily": "Open Sans",
+                "fill": "#000000",
+                "stroke": "#000000",
+                "strokeWidth": 0,
+                "draggable": true,
+                "name": "Text_4",
+                "align": "center",
+                "fontStyle": "bold"
+              },
+              "className": "Text"
+            },
+            {
+              "attrs": {
+                "type": "text",
+                "x": 240,
+                "y": 20,
+                "text": "1 of 1",
+                "fontSize": 10,
+                "fontFamily": "Open Sans",
+                "fill": "#000000",
+                "stroke": "#000000",
+                "strokeWidth": 0,
+                "draggable": true,
+                "name": "Text_5"
+              },
+              "className": "Text"
+            },
+            {
+              "attrs": {
+                "type": "text",
+                "x": 166.33687405159336,
+                "y": 57.37704942191807,
+                "text": "FRAGILE",
+                "fontSize": 15,
+                "fontFamily": "Open Sans",
+                "fill": "#ea0f0fff",
+                "stroke": "#000000",
+                "strokeWidth": 0,
+                "draggable": true,
+                "name": "Text_6",
+                "fontStyle": "bold"
+              },
+              "className": "Text"
+            },
+            {
+              "attrs": {
+                "type": "text",
+                "x": 30,
+                "y": 210,
+                "text": "Shipping Compnay",
+                "fontSize": 10,
+                "fontFamily": "Open Sans",
+                "fill": "#000000",
+                "stroke": "#000000",
+                "strokeWidth": 0,
+                "draggable": true,
+                "name": "Text_7",
+                "fontStyle": "bold"
+              },
+              "className": "Text"
+            },
+            {
+              "attrs": {
+                "type": "text",
+                "x": 30,
+                "y": 230,
+                "text": "Tracking # 1A 2Bc 3DA 56 7890 1234",
+                "fontSize": 10,
+                "fontFamily": "Open Sans",
+                "fill": "#000000",
+                "stroke": "#000000",
+                "strokeWidth": 0,
+                "draggable": true,
+                "name": "Text_8"
+              },
+              "className": "Text"
+            },
+            {
+              "attrs": {
+                "type": "barcodeBasic",
+                "x": 15.792602525003211,
+                "y": 259.9159685823301,
+                "text": "*1A 2Bc 3DA 56 7890 1234*",
+                "fontSize": 20,
+                "fontFamily": "Libre Barcode 39",
+                "fill": "#000000",
+                "stroke": "#000000",
+                "strokeWidth": 0,
+                "strokeScaleEnabled": false,
+                "draggable": true,
+                "name": "Barcode_2",
+                "width": 256.7126676839843,
+                "height": 16.05041885059903,
+                "align": "center"
+              },
+              "className": "Text"
+            },
+            {
+              "attrs": {
+                "type": "text",
+                "x": 30,
+                "y": 293.6363624925254,
+                "text": "Billing: P/P",
+                "fontSize": 10,
+                "fontFamily": "Open Sans",
+                "fill": "#000000",
+                "stroke": "#000000",
+                "strokeWidth": 0,
+                "draggable": true,
+                "name": "Text_9"
+              },
+              "className": "Text"
+            },
+            {
+              "attrs": {
+                "shouldOverdrawWholeArea": true,
+                "ignoreStroke": true,
+                "padding": 10,
+                "x": 131.32625189681335,
+                "y": 14.421851289833079
+              },
+              "className": "Transformer"
+            },
+            {
+              "attrs": {
+                "type": "text",
+                "x": 30,
+                "y": 320,
+                "text": "Reference 1: Item",
+                "fontSize": 10,
+                "fontFamily": "Open Sans",
+                "fill": "#000000",
+                "stroke": "#000000",
+                "strokeWidth": 0,
+                "draggable": true,
+                "name": "Text_10"
+              },
+              "className": "Text"
+            },
+            {
+              "attrs": {
+                "type": "text",
+                "x": 130,
+                "y": 320,
+                "text": "01/01/2023",
+                "fontSize": 10,
+                "fontFamily": "Open Sans",
+                "fill": "#000000",
+                "stroke": "#000000",
+                "strokeWidth": 0,
+                "draggable": true,
+                "name": "Text_10"
+              },
+              "className": "Text"
+            },
+            {
+              "attrs": {
+                "type": "text",
+                "x": 210,
+                "y": 320,
+                "text": "WNTN 77.22",
+                "fontSize": 10,
+                "fontFamily": "Open Sans",
+                "fill": "#000000",
+                "stroke": "#000000",
+                "strokeWidth": 0,
+                "draggable": true,
+                "name": "Text_10"
+              },
+              "className": "Text"
+            }
+          ]
+        },
+        {
+          "attrs": { "name": "hiddenLayer" },
+          "className": "Layer",
+          "children": [
+            {
+              "attrs": {
+                "fill": "rgb(60 129 246 / 0.29)",
+                "visible": false,
+                "name": "selectionRectangle",
+                "x": 27.451505016722415,
+                "y": 58.3132269213991
+              },
+              "className": "Rect"
+            }
+          ]
+        }
+      ]
+    },
+    "props": {
+      "pageWidth": 612,
+      "pageHeight": 792,
+      "layoutPageWidth": 612,
+      "layoutPageHeight": 792,
+      "pageMargin": 0,
+      "cellHeight": 360,
+      "cellWidth": 288,
+      "layoutCellHeight": 360,
+      "layoutCellWidth": 288,
+      "cellPadding": 0,
+      "pageMarginLeft": 9,
+      "pageMarginTop": 36,
+      "cellPaddingLeft": 13,
+      "cellPaddingTop": 0,
+      "layoutPageMarginLeft": 9,
+      "layoutPageMarginTop": 36,
+      "layoutCellPaddingLeft": 13.5,
+      "layoutCellPaddingTop": 0,
+      "layoutApplied": false,
+      "unit": "px",
+      "useLayout": false,
+      "numberOfCellPrint": "20",
+      "printQuality": 3,
+      "format": "a4",
+      "printMode": "static",
+      "sheetData": null,
+      "mappedData": [],
+      "enableRuler": false,
+      "enableGrid": false,
+      "enableGuide": false,
+      "icons": null,
+      "zoomScale": 0.1,
+      "woocommerceUrl": "http://example.com",
+      "woocommerceConsumerKey": null,
+      "woocommerceConsumerSecret": null
+    }
+  }

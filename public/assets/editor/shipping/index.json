@@ -1,0 +1,14 @@
+[
+  {
+    "type": "template",
+    "preview": "templates/template1/preview.png"
+  },
+  {
+    "type": "template",
+    "preview": "templates/template2/preview.png"
+  },
+  {
+    "type": "template",
+    "preview": "templates/template3/preview.png"
+  }
+]

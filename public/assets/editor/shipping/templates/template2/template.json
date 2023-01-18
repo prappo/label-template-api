@@ -1,0 +1,584 @@
+{
+    "type": "template",
+    "preview": "preview.png",
+    "data": {
+      "attrs": {
+        "height": 810.2523000000001,
+        "width": 972.4000000000001,
+        "scaleX": 3.376388888888889,
+        "scaleY": 3.376388888888889
+      },
+      "className": "Stage",
+      "children": [
+        {
+          "attrs": { "name": "backgroundLayer" },
+          "className": "Layer",
+          "children": [
+            {
+              "attrs": {
+                "width": 1318,
+                "height": 1098.2235,
+                "fill": "#ffffffff",
+                "name": "stageBackground",
+                "scaleX": 4.576388888888889,
+                "scaleY": 4.576388888888889
+              },
+              "className": "Rect"
+            }
+          ]
+        },
+        {
+          "attrs": { "name": "gridLayer" },
+          "className": "Layer",
+          "children": []
+        },
+        {
+          "attrs": { "name": "rulerLayer" },
+          "className": "Layer",
+          "children": []
+        },
+        {
+          "attrs": { "name": "mainLayer" },
+          "className": "Layer",
+          "children": [
+            {
+              "attrs": {
+                "x": 10,
+                "y": 10,
+                "width": 270.6105657452224,
+                "height": 219.75074615340446,
+                "fill": "#3c81f600",
+                "stroke": "#0f0f0f0",
+                "strokeWidth": 1,
+                "strokeScaleEnabled": false,
+                "draggable": true,
+                "type": "rect",
+                "cornerRadius": [0, 0, 0, 0],
+                "name": "Rect_1",
+                "visible": false
+              },
+              "className": "Rect"
+            },
+            {
+              "attrs": {
+                "x": 10,
+                "y": 10,
+                "width": 59.917181790088364,
+                "height": 59.917181790088364,
+                "fill": "#3c81f600",
+                "stroke": "#0f0f0f0",
+                "strokeScaleEnabled": false,
+                "draggable": true,
+                "type": "rect",
+                "cornerRadius": [0, 0, 0, 0],
+                "name": "Rect_2"
+              },
+              "className": "Rect"
+            },
+            {
+              "attrs": {
+                "x": 70.00000000000044,
+                "y": 9.999999999999975,
+                "width": 210.16241898128396,
+                "height": 59.91718179008817,
+                "fill": "#3c81f600",
+                "stroke": "#0f0f0f0",
+                "strokeScaleEnabled": false,
+                "draggable": true,
+                "type": "rect",
+                "cornerRadius": [0, 0, 0, 0],
+                "name": "Rect_2"
+              },
+              "className": "Rect"
+            },
+            {
+              "attrs": {
+                "x": 10.000000000000068,
+                "y": 69.99999999999993,
+                "width": 270.22070066006404,
+                "height": 20.051856989753606,
+                "fill": "#3c81f600",
+                "stroke": "#0f0f0f0",
+                "strokeScaleEnabled": false,
+                "draggable": true,
+                "type": "rect",
+                "cornerRadius": [0, 0, 0, 0],
+                "name": "Rect_3"
+              },
+              "className": "Rect"
+            },
+            {
+              "attrs": {
+                "x": 10,
+                "y": 90,
+                "width": 270.22070066006404,
+                "height": 20.051856989753606,
+                "fill": "#3c81f600",
+                "stroke": "#0f0f0f0",
+                "strokeScaleEnabled": false,
+                "draggable": true,
+                "type": "rect",
+                "cornerRadius": [0, 0, 0, 0],
+                "name": "Rect_3"
+              },
+              "className": "Rect"
+            },
+            {
+              "attrs": {
+                "x": 10,
+                "y": 110,
+                "width": 270.22070066006404,
+                "height": 20.051856989753606,
+                "fill": "#3c81f600",
+                "stroke": "#0f0f0f0",
+                "strokeScaleEnabled": false,
+                "draggable": true,
+                "type": "rect",
+                "cornerRadius": [0, 0, 0, 0],
+                "name": "Rect_3"
+              },
+              "className": "Rect"
+            },
+            {
+              "attrs": {
+                "x": 10,
+                "y": 130,
+                "width": 270.22070066006404,
+                "height": 20.051856989753606,
+                "fill": "#3c81f600",
+                "stroke": "#0f0f0f0",
+                "strokeScaleEnabled": false,
+                "draggable": true,
+                "type": "rect",
+                "cornerRadius": [0, 0, 0, 0],
+                "name": "Rect_3"
+              },
+              "className": "Rect"
+            },
+            {
+              "attrs": {
+                "x": 9.999999999999915,
+                "y": 149.99999999999739,
+                "width": 129.89042409951028,
+                "height": 39.63108938469405,
+                "fill": "#3c81f600",
+                "stroke": "#0f0f0f0",
+                "strokeScaleEnabled": false,
+                "draggable": true,
+                "type": "rect",
+                "cornerRadius": [0, 0, 0, 0],
+                "name": "Rect_3"
+              },
+              "className": "Rect"
+            },
+            {
+              "attrs": {
+                "x": 9.99999999999983,
+                "y": 189.99999999999739,
+                "width": 129.8904240995104,
+                "height": 39.90302316795733,
+                "fill": "#3c81f600",
+                "stroke": "#0f0f0f0",
+                "strokeScaleEnabled": false,
+                "draggable": true,
+                "type": "rect",
+                "cornerRadius": [0, 0, 0, 0],
+                "name": "Rect_3"
+              },
+              "className": "Rect"
+            },
+            {
+              "attrs": {
+                "x": 139.99999999999756,
+                "y": 109.99999999999814,
+                "width": 140.26439174397274,
+                "height": 119.89951397367525,
+                "fill": "#3c81f600",
+                "stroke": "#0f0f0f0",
+                "strokeScaleEnabled": false,
+                "draggable": true,
+                "type": "rect",
+                "cornerRadius": [0, 0, 0, 0],
+                "name": "Rect_4"
+              },
+              "className": "Rect"
+            },
+            {
+              "attrs": {
+                "type": "text",
+                "x": 20,
+                "y": 20,
+                "text": "P",
+                "fontSize": 54,
+                "fontFamily": "Open Sans",
+                "fill": "#000000",
+                "stroke": "#000000",
+                "strokeWidth": 0,
+                "draggable": true,
+                "name": "Logo",
+                "align": "center",
+                "fontStyle": "bold",
+                "width": 42.55025981657917,
+                "height": 45.413592125064746
+              },
+              "className": "Text"
+            },
+            {
+              "attrs": {
+                "type": "text",
+                "x": 80,
+                "y": 20,
+                "text": "To",
+                "fontSize": 10,
+                "fontFamily": "Open Sans",
+                "fill": "#000000",
+                "stroke": "#000000",
+                "strokeWidth": 0,
+                "draggable": true,
+                "name": "To"
+              },
+              "className": "Text"
+            },
+            {
+              "attrs": {
+                "type": "text",
+                "x": 119.11183369265471,
+                "y": 20.888249090510552,
+                "text": "Compnay Name",
+                "fontSize": 10,
+                "fontFamily": "Open Sans",
+                "fill": "#000000",
+                "stroke": "#000000",
+                "strokeWidth": 0,
+                "draggable": true,
+                "name": "Company_Name",
+                "fontStyle": "bold"
+              },
+              "className": "Text"
+            },
+            {
+              "attrs": {
+                "type": "text",
+                "x": 120,
+                "y": 50,
+                "text": "ZIP,State",
+                "fontSize": 8,
+                "fontFamily": "Open Sans",
+                "fill": "#000000",
+                "stroke": "#000000",
+                "strokeWidth": 0,
+                "draggable": true,
+                "name": "Zip_state"
+              },
+              "className": "Text"
+            },
+            {
+              "attrs": {
+                "type": "text",
+                "x": 119.71369806663922,
+                "y": 37.63133575863851,
+                "text": "Address, City",
+                "fontSize": 8,
+                "fontFamily": "Open Sans",
+                "fill": "#000000",
+                "stroke": "#000000",
+                "strokeWidth": 0,
+                "draggable": true,
+                "name": "Address_City"
+              },
+              "className": "Text"
+            },
+            {
+              "attrs": {
+                "type": "text",
+                "x": 11.630650756239334,
+                "y": 73.55299636204023,
+                "text": "P R I O R I T Y  M A I L",
+                "fontSize": 11,
+                "fontFamily": "Open Sans",
+                "fill": "#000000",
+                "stroke": "#000000",
+                "strokeWidth": 0,
+                "draggable": true,
+                "name": "Text_6",
+                "width": 264.73869848752133,
+                "height": 9.99999999999975,
+                "align": "center",
+                "fontStyle": "bold",
+                "padding": 1
+              },
+              "className": "Text"
+            },
+            {
+              "attrs": {
+                "type": "text",
+                "x": 19.703944564218233,
+                "y": 95.03341151289315,
+                "text": "FROM",
+                "fontSize": 10,
+                "fontFamily": "Open Sans",
+                "fill": "#000000",
+                "stroke": "#000000",
+                "strokeWidth": 0,
+                "draggable": true,
+                "name": "FROM",
+                "fontStyle": "bold"
+              },
+              "className": "Text"
+            },
+            {
+              "attrs": {
+                "type": "text",
+                "x": 58.81577825687297,
+                "y": 95.62557757323353,
+                "text": "COMPNAY NAME, Address, City,ZIP,State",
+                "fontSize": 10,
+                "fontFamily": "Open Sans",
+                "fill": "#000000",
+                "stroke": "#000000",
+                "strokeWidth": 0,
+                "draggable": true,
+                "name": "Text_8"
+              },
+              "className": "Text"
+            },
+            {
+              "attrs": {
+                "type": "text",
+                "x": 20.296055435781753,
+                "y": 114.95303496503497,
+                "text": "LOT NUMBER:",
+                "fontSize": 10,
+                "fontFamily": "Open Sans",
+                "fill": "#000000",
+                "stroke": "#000000",
+                "strokeWidth": 0,
+                "draggable": true,
+                "name": "Text_9",
+                "fontStyle": "bold"
+              },
+              "className": "Text"
+            },
+            {
+              "attrs": {
+                "type": "text",
+                "x": 143.99999999999997,
+                "y": 114.95303496503497,
+                "text": "REF NUMBER;",
+                "fontSize": 10,
+                "fontFamily": "Open Sans",
+                "fill": "#000000",
+                "stroke": "#000000",
+                "strokeWidth": 0,
+                "draggable": true,
+                "name": "Text_10",
+                "fontStyle": "bold"
+              },
+              "className": "Text"
+            },
+            {
+              "attrs": {
+                "type": "text",
+                "x": 19.999999999999993,
+                "y": 133.8490793922124,
+                "text": "SHIP DATE",
+                "fontSize": 10,
+                "fontFamily": "Open Sans",
+                "fill": "#000000",
+                "stroke": "#000000",
+                "strokeWidth": 0,
+                "draggable": true,
+                "name": "Text_11",
+                "fontStyle": "bold"
+              },
+              "className": "Text"
+            },
+            {
+              "attrs": {
+                "type": "text",
+                "x": 144,
+                "y": 135.03341151289314,
+                "text": "WEIGHT",
+                "fontSize": 10,
+                "fontFamily": "Open Sans",
+                "fill": "#000000",
+                "stroke": "#000000",
+                "strokeWidth": 0,
+                "draggable": true,
+                "name": "Text_12",
+                "fontStyle": "bold"
+              },
+              "className": "Text"
+            },
+            {
+              "attrs": {
+                "type": "svg",
+                "imageSrc": "data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjgwMCIgd2lkdGg9IjgwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgMjk1LjcxOCAyOTUuNzE4Ij4KCTxwYXRoCgkJZD0iTTI0OC42NzkgNC4yOTNBMTMuMDQ2IDEzLjA0NiAwIDAwMjM4Ljk5NyAwSDEzNS45NjZsMTAuNzY5IDEzLjg4MWExNS4wMDIgMTUuMDAyIDAgMDExLjcxNiAxNS41OTJsLTEwLjM0NyAyMS45NDMgMTcuODM3IDI0LjEwNWM0LjkyOCA2LjY1OSAzLjUyNCAxNi4wNTMtMy4xMzUgMjAuOThhMTQuOTQgMTQuOTQgMCAwMS04LjkxMSAyLjk0MyAxNC45NzkgMTQuOTc5IDAgMDEtMTIuMDY5LTYuMDc4bC0yMy4xNzItMzEuMzEzYTE1LjAwMSAxNS4wMDEgMCAwMS0xLjUxLTE1LjMyTDExNy4zOTMgMjUgOTcuOTk3IDBINTYuNzE5YTEzLjAzNSAxMy4wMzUgMCAwMC05LjY3IDQuMjk4IDEzLjAzNyAxMy4wMzcgMCAwMC0zLjMwNyAxMC4wNTljMS40NDEgMTQuMDgxIDUuMjI4IDM2LjU3NiAxNS4xODUgNTguNzI3IDE1LjgyIDM1LjIgNDEuMTk5IDc4LjkzNyA3My45MzIgODMuNjk5djEwOC45MzVIOTAuNTI1Yy04LjI4NCAwLTE1IDYuNzE2LTE1IDE1czYuNzE2IDE1IDE1IDE1aDExNC42NjdjOC4yODQgMCAxNS02LjcxNiAxNS0xNXMtNi43MTYtMTUtMTUtMTVoLTQyLjMzM1YxNTYuNzgzYzMyLjczMi00Ljc2MiA1OC4xMTEtNDguNDk5IDczLjkzMi04My42OTkgOS45NTctMjIuMTUyIDEzLjc0NC00NC42NDYgMTUuMTg1LTU4LjcyN2ExMy4wMzYgMTMuMDM2IDAgMDAtMy4yOTctMTAuMDY0eiIgLz4KPC9zdmc+",
+                "draggable": true,
+                "name": "Svg_1",
+                "fill": "#ffffff00",
+                "width": 20,
+                "height": 20,
+                "x": 20,
+                "y": 160
+              },
+              "className": "Image"
+            },
+            {
+              "attrs": {
+                "type": "svg",
+                "imageSrc": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iaXNvLTg4NTktMSI/Pgo8IS0tIFVwbG9hZGVkIHRvOiBTVkcgUmVwbywgd3d3LnN2Z3JlcG8uY29tLCBUcmFuc2Zvcm1lZCBieTogU1ZHIFJlcG8gVG9vbHMgLS0+CjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2ZzExLmR0ZCI+CjxzdmcgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSI4MDBweCIgd2lkdGg9IjgwMHB4IiB2ZXJzaW9uPSIxLjEiIGlkPSJDYXBhXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIAoJIHZpZXdCb3g9IjAgMCAyOTcuMzkxIDI5Ny4zOTEiIHhtbDpzcGFjZT0icHJlc2VydmUiPgo8Zz4KCTxwYXRoIGQ9Ik0xMzQuMzQyLDI2MC4xNTZjLTMuMjMxLTEzLjA4My00Ljg5Ny0yNi41MDMtNC45NjQtMzkuOTc5bC0wLjIwOC00MS43ODdjLTAuMDE2LTMuMjczLTEuMTAyLTYuNDUyLTMuMDkzLTkuMDUKCQlsLTMwLjQwNS0zOS42NzNjLTQuOTEzLTYuNDExLTE0LjA2Ny04LjE1LTIwLjcwMS0zLjU0NGMtNy4wODMsNC45MTktOC41NTEsMTQuNjkyLTMuMzY3LDIxLjQ1N2wxOC4yMDcsMjMuNzU2CgkJYzIuOTc0LDMuODgsNC4xMzQsOC44NTIsMy4xODYsMTMuNjQ3djBjLTAuODU2LDQuMzI5LTYuMDk5LDYuMDc4LTkuMzgzLDMuMTMyTDQ4Ljk2MiwxNTcuMDMKCQljLTYuOTcxLTYuMjU0LTEwLjczMS0xNS4zMzEtMTAuMjI2LTI0LjY4M2wzLjY1Ni02Ny42NDNjMC40NDctOC4yNzItNS44OTctMTUuMzQxLTE0LjE2OS0xNS43ODgKCQljLTguMjc1LTAuNDQ0LTE1LjM0LDUuODk3LTE1Ljc4OCwxNC4xNjlMNy4wNiwxNjIuNTRjLTAuMTc5LDMuMzMxLDAuNzU2LDYuNjI2LDIuNjU5LDkuMzY2bDQ5Ljk5MSw3MS45NzkKCQljNi40MTIsOS4yMzIsMTEuMDgsMTkuNTU5LDEzLjc3NCwzMC40NzFsMi44NTIsMTEuNTQ5YzEuNjY2LDYuNzQ1LDcuNzE4LDExLjQ4NSwxNC42NjYsMTEuNDg1aDMyLjg5NgoJCWMzLjUwMywwLDYuOTY5LTEuMDY4LDkuNzEyLTMuMjQ3YzQuNzM3LTMuNzY1LDYuNjk4LTkuODI4LDUuMzAyLTE1LjQ4TDEzNC4zNDIsMjYwLjE1NnoiLz4KCTxwYXRoIGQ9Ik0xNjMuMDQ5LDI2MC4xNTZjMy4yMzEtMTMuMDgzLDQuODk3LTI2LjUwMyw0Ljk2NC0zOS45NzlsMC4yMDgtNDEuNzg3YzAuMDE2LTMuMjczLDEuMTAyLTYuNDUyLDMuMDk0LTkuMDVsMzAuNDA1LTM5LjY3MwoJCWM0LjkxMy02LjQxMSwxNC4wNjctOC4xNSwyMC43MDItMy41NDRjNy4wODMsNC45MTksOC41NTEsMTQuNjkyLDMuMzY3LDIxLjQ1N2wtMTguMjA3LDIzLjc1NgoJCWMtMi45NzQsMy44OC00LjEzNCw4Ljg1Mi0zLjE4NSwxMy42NDd2MGMwLjg1Niw0LjMyOSw2LjA5OSw2LjA3OCw5LjM4MywzLjEzMmwzNC42NDktMzEuMDg3CgkJYzYuOTcxLTYuMjU0LDEwLjczMS0xNS4zMzEsMTAuMjI2LTI0LjY4M2wtMy42NTYtNjcuNjQzYy0wLjQ0Ny04LjI3Miw1Ljg5Ny0xNS4zNDEsMTQuMTY5LTE1Ljc4OAoJCWM4LjI3NS0wLjQ0NCwxNS4zNCw1Ljg5NywxNS43ODgsMTQuMTY5bDUuMzc1LDk5LjQ1NWMwLjE3OSwzLjMzMS0wLjc1Niw2LjYyNi0yLjY1OSw5LjM2NmwtNDkuOTkxLDcxLjk3OQoJCWMtNi40MTIsOS4yMzItMTEuMDgsMTkuNTU5LTEzLjc3NSwzMC40NzFsLTIuODUyLDExLjU0OWMtMS42NjYsNi43NDUtNy43MTgsMTEuNDg1LTE0LjY2NiwxMS40ODVoLTMyLjg5NgoJCWMtMy41MDMsMC02Ljk2OS0xLjA2OC05LjcxMi0zLjI0N2MtNC43MzctMy43NjUtNi42OTgtOS44MjgtNS4zMDItMTUuNDhMMTYzLjA0OSwyNjAuMTU2eiIvPgoJPHBhdGggZD0iTTE3NS44NjIsMTA5LjI1NWwyOC4yMDItNTkuNjM2YzMuNTQxLTcuNDg5LDAuMzQxLTE2LjQzMi03LjE0Ny0xOS45NzRMMTM3LjI4MSwxLjQ0NAoJCWMtNy40OS0zLjU0Mi0xNi40MzItMC4zNDItMTkuOTc0LDcuMTQ3TDg5LjEwNSw2OC4yMjdjLTMuNTQxLDcuNDg5LTAuMzQxLDE2LjQzMiw3LjE0OCwxOS45NzRsNTkuNjM2LDI4LjIwMgoJCWMyLjA3MiwwLjk4LDQuMjU0LDEuNDQzLDYuNDAzLDEuNDQzQzE2Ny45MTEsMTE3Ljg0NiwxNzMuMjk5LDExNC42NzIsMTc1Ljg2MiwxMDkuMjU1eiIvPgo8L2c+CjxnPgo8L2c+CjxnPgo8L2c+CjxnPgo8L2c+CjxnPgo8L2c+CjxnPgo8L2c+CjxnPgo8L2c+CjxnPgo8L2c+CjxnPgo8L2c+CjxnPgo8L2c+CjxnPgo8L2c+CjxnPgo8L2c+CjxnPgo8L2c+CjxnPgo8L2c+CjxnPgo8L2c+CjxnPgo8L2c+Cjwvc3ZnPg==",
+                "draggable": true,
+                "name": "Svg_4",
+                "fill": "#ffffff00",
+                "width": 20,
+                "height": 20,
+                "x": 110,
+                "y": 160
+              },
+              "className": "Image"
+            },
+            {
+              "attrs": {
+                "type": "svg",
+                "imageSrc": "data:image/svg+xml;base64,PCEtLSBVcGxvYWRlZCB0bzogU1ZHIFJlcG8sIHd3dy5zdmdyZXBvLmNvbSwgVHJhbnNmb3JtZWQgYnk6IFNWRyBSZXBvIFRvb2xzIC0tPgo8c3ZnIGZpbGw9IiMwMDAwMDAiIHdpZHRoPSI4MDBweCIgaGVpZ2h0PSI4MDBweCIgdmlld0JveD0iLTEuMDQgMCA1Ny42NDIgNTcuNjQyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogIDxwYXRoIGlkPSJ1bWJyZWxsYSIgZD0iTTEwMjYuMjM4LDM3Mi42ODVhMjYuMDY1LDI2LjA2NSwwLDAsMC04LjctMTYuMzY2LDI4LjUxNywyOC41MTcsMCwwLDAtMTYuOTYzLTcuMDIydi0uNjM2bC0uMDEzLS4wNzgtLjA0Ny0uMjc2YTEuOTIzLDEuOTIzLDAsMCwwLTEuNzY0LTEuNjc0bC0uMDM2LDAtLjAzNSwwYTEuOTE5LDEuOTE5LDAsMCwwLTEuNzY1LDEuNjc0bC0uMDA2LjAyNSwwLC4wMjQtLjA0My4zLjAxLS4wNTItLjAyMi4xNDN2LjUzMWMtMTMuNTA5Ljc4OC0yNC42LDEwLjg0Ni0yNS45ODIsMjMuNzI1bC0uMDkyLjg2Ny44Ni4xNS40NTYuMDc4Ljg2MS4xNS4yLS44NDhhNS41NzgsNS41NzgsMCwwLDEsMTAuOS4yMDlsLjAzNC4xNzcuMTQ2Ljc2NWgyLjAzM2wuMTUzLS43NDYuMDQxLS4xOTNhNS41OTIsNS41OTIsMCwwLDEsNS40NjItNC41LDUuNTMxLDUuNTMxLDAsMCwxLDUuMjkxLDMuODg1bC4wMDUsMjIuMzIuMDI5LDMuNTU3YTIuNTk0LDIuNTk0LDAsMSwxLTUuMTc2LDAsMS4zMTgsMS4zMTgsMCwwLDAtMi42MzUsMCw1LjMzNiw1LjMzNiwwLDAsMCw1LjIyMSw1LjRoMGE1LjMzMSw1LjMzMSwwLDAsMCw1LjIxNy01LjM5M2wuMDM2LTMuNTY5VjM3My4xNDZjLjA1Ni0uMTk0LjExMi0uMzY0LjE3LS41MTJhNS41NjIsNS41NjIsMCwwLDEsMTAuNjM1Ljk3NGwuMDM2LjE4Ny4xNDIuNzU4aDIuMDQxbC4xNDktLjc1Mi4wMzctLjE4NWE1LjU3OCw1LjU3OCwwLDAsMSwxMC44MzYtLjQ2OGwuMjM4LjgyNC44NC0uMTcxLjQ1NS0uMDkzLjg0MS0uMTdaIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtOTcwLjc3OSAtMzQ2LjYzMSkiLz4KPC9zdmc+",
+                "draggable": true,
+                "name": "Svg_3",
+                "fill": "#ffffff00",
+                "width": 20,
+                "height": 20,
+                "x": 80,
+                "y": 160
+              },
+              "className": "Image"
+            },
+            {
+              "attrs": {
+                "type": "svg",
+                "imageSrc": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iaXNvLTg4NTktMSI/Pgo8IS0tIFVwbG9hZGVkIHRvOiBTVkcgUmVwbywgd3d3LnN2Z3JlcG8uY29tLCBUcmFuc2Zvcm1lZCBieTogU1ZHIFJlcG8gVG9vbHMgLS0+CjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2ZzExLmR0ZCI+CjxzdmcgZmlsbD0iIzAwMDAwMCIgdmVyc2lvbj0iMS4xIiBpZD0iQ2FwYV8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAKCSB3aWR0aD0iODAwcHgiIGhlaWdodD0iODAwcHgiIHZpZXdCb3g9IjAgMCA2MTIgNjEyIiB4bWw6c3BhY2U9InByZXNlcnZlIj4KPGc+Cgk8cGF0aCBkPSJNNjEyLDU1My41ODZ2MzIuMTA3YzAsNS45MTEtNC43OTIsMTAuNzAyLTEwLjcwMiwxMC43MDJIMTAuNzAyQzQuNzkyLDU5Ni4zOTYsMCw1OTEuNjA0LDAsNTg1LjY5M3YtMzIuMTA3CgkJYzAtNS45MSw0Ljc5Mi0xMC43MDIsMTAuNzAyLTEwLjcwMmg1OTAuNTk2QzYwNy4yMDgsNTQyLjg4NCw2MTIsNTQ3LjY3NSw2MTIsNTUzLjU4NnogTTEyMi4wMjEsNDkxLjQzMWg1My41MTIKCQljMTEuODIxLDAsMjEuNDA1LTkuNTgzLDIxLjQwNS0yMS40MDRWMjAyLjEzMWgzNC44MjNjMTYuNDc4LDAsMjYuNzc2LTE3LjgzOSwxOC41MzYtMzIuMTA5TDE2Ny4zMDUsMjYuMzA1CgkJYy04LjI0LTE0LjI2OC0yOC44MzQtMTQuMjY3LTM3LjA3MywwLjAwMUw0Ny4yNTUsMTcwLjAyM2MtOC4yMzksMTQuMjcsMi4wNTksMzIuMTA3LDE4LjUzNywzMi4xMDdoMzQuODI1djI2Ny44OTYKCQlDMTAwLjYxNyw0ODEuODQ4LDExMC4yLDQ5MS40MzEsMTIyLjAyMSw0OTEuNDMxeiBNNDQzLjEwNCw0OTEuNDMxaDUzLjUxMmMxMS44MjEsMCwyMS40MDQtOS41ODMsMjEuNDA0LTIxLjQwNFYyMDIuMTMxaDM0LjgyNwoJCWMxNi40NzgsMCwyNi43NzYtMTcuODM5LDE4LjUzNS0zMi4xMDlMNDg4LjM5LDI2LjMwNWMtOC4yMzktMTQuMjY4LTI4LjgzNC0xNC4yNjctMzcuMDcyLDAuMDAxbC04Mi45NzcsMTQzLjcxNwoJCWMtOC4yMzksMTQuMjcsMi4wNiwzMi4xMDcsMTguNTM2LDMyLjEwN2gzNC44MjF2MjY3Ljg5NkM0MjEuNjk4LDQ4MS44NDgsNDMxLjI4Miw0OTEuNDMxLDQ0My4xMDQsNDkxLjQzMXoiLz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8L3N2Zz4=",
+                "draggable": true,
+                "name": "Svg_2",
+                "fill": "#ffffff00",
+                "width": 20,
+                "height": 20,
+                "x": 50,
+                "y": 160
+              },
+              "className": "Image"
+            },
+            {
+              "attrs": {
+                "type": "text",
+                "x": 20,
+                "y": 200,
+                "text": "Delivery Instruction:",
+                "fontSize": 5,
+                "fontFamily": "Open Sans",
+                "fill": "#000000",
+                "stroke": "#000000",
+                "strokeWidth": 0,
+                "draggable": true,
+                "name": "Text_13"
+              },
+              "className": "Text"
+            },
+            {
+              "attrs": {
+                "shouldOverdrawWholeArea": true,
+                "ignoreStroke": true,
+                "padding": 10,
+                "x": 144.96705759171005,
+                "y": 135.03341151289317
+              },
+              "className": "Transformer"
+            },
+            {
+              "attrs": {
+                "type": "text",
+                "x": 150,
+                "y": 160,
+                "text": "Item nr:",
+                "fontSize": 5,
+                "fontFamily": "Open Sans",
+                "fill": "#000000",
+                "stroke": "#000000",
+                "strokeWidth": 0,
+                "draggable": true,
+                "name": "Text_14"
+              },
+              "className": "Text"
+            },
+            {
+              "attrs": {
+                "x": 159.9999999999998,
+                "y": 167.6313357586385,
+                "width": 109.25318840714655,
+                "height": 58.179976887053535,
+                "draggable": true,
+                "type": "barcode",
+                "barcode": "1234",
+                "displayValue": true,
+                "format": "CODE39",
+                "name": "Barcode_NaN",
+                "fill": "#ffffffff"
+              },
+              "className": "Image"
+            }
+          ]
+        },
+        {
+          "attrs": { "name": "hiddenLayer" },
+          "className": "Layer",
+          "children": [
+            {
+              "attrs": {
+                "fill": "rgb(60 129 246 / 0.29)",
+                "visible": false,
+                "name": "selectionRectangle",
+                "x": 5.241106386573942,
+                "y": 5.033411512893154
+              },
+              "className": "Rect"
+            }
+          ]
+        }
+      ]
+    },
+    "props": {
+      "pageWidth": 612,
+      "pageHeight": 792,
+      "layoutPageWidth": 612,
+      "layoutPageHeight": 792,
+      "pageMargin": 0,
+      "cellHeight": 239.976,
+      "cellWidth": 288,
+      "layoutCellHeight": 239.976,
+      "layoutCellWidth": 288,
+      "cellPadding": 0,
+      "pageMarginLeft": 11,
+      "pageMarginTop": 36,
+      "cellPaddingLeft": 13,
+      "cellPaddingTop": 0,
+      "layoutPageMarginLeft": 11.232,
+      "layoutPageMarginTop": 36,
+      "layoutCellPaddingLeft": 13.5,
+      "layoutCellPaddingTop": 0,
+      "layoutApplied": false,
+      "unit": "px",
+      "useLayout": false,
+      "numberOfCellPrint": "10",
+      "printQuality": 3,
+      "format": "a4",
+      "printMode": "static",
+      "sheetData": null,
+      "mappedData": [],
+      "enableRuler": false,
+      "enableGrid": false,
+      "enableGuide": false,
+      "icons": [],
+      "zoomScale": 0.1,
+      "woocommerceUrl": "http://example.com",
+      "woocommerceConsumerKey": null,
+      "woocommerceConsumerSecret": null
+    }
+  }
