@@ -2,6 +2,7 @@
     "type": "template",
     "preview": "preview.png",
     "id":"1235",
+    "category":"shipping",
     "data": {
       "attrs": {
         "height": 810.2523000000001,

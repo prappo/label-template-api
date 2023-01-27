@@ -2,6 +2,7 @@
   "id": "1111",
     "type": "template",
     "preview": "preview.png",
+    "category":"card",
     "data": {
       "attrs": {
         "height": 753.1428571428571,
