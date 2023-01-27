@@ -1,5 +1,6 @@
 {
   "type": "template",
+  "id":"1234",
   "preview": "preview.png",
   "data": {
     "attrs": {

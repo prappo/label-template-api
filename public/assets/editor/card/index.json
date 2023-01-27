@@ -1,20 +1,20 @@
 [
   {
-    "id":"1234",
+    "id": "1111",
     "type": "template",
     "preview": "templates/template1/preview.png",
-    "path":"templates/template1/template.json"
+    "path": "templates/template1/template.json"
   },
   {
-    "id":"1235",
+    "id": "1112",
     "type": "template",
     "preview": "templates/template2/preview.png",
-    "path":"templates/template2/template.json"
+    "path": "templates/template2/template.json"
   },
   {
-    "id":"1236",
+    "id": "1113",
     "type": "template",
     "preview": "templates/template3/preview.png",
-    "path":"templates/template3/template.json"
+    "path": "templates/template3/template.json"
   }
 ]
