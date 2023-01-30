@@ -1,6 +1,7 @@
 [
   {
     "id": "1111",
+    "name":"Card",
     "type": "template",
     "preview": "templates/template1/preview.png",
     "path": "templates/template1/template.json",
@@ -8,6 +9,7 @@
   },
   {
     "id": "1112",
+    "name":"Card",
     "type": "template",
     "preview": "templates/template2/preview.png",
     "path": "templates/template2/template.json",
@@ -15,6 +17,7 @@
   },
   {
     "id": "1113",
+    "name":"Card",
     "type": "template",
     "preview": "templates/template3/preview.png",
     "path": "templates/template3/template.json",
