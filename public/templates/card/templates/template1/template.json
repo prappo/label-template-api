@@ -1,0 +1,302 @@
+{
+  "id": "1111",
+    "type": "template",
+    "preview": "preview.png",
+    "category":"card",
+    "data": {
+      "attrs": {
+        "height": 753.1428571428571,
+        "width": 1318,
+        "scaleX": 5.23015873015873,
+        "scaleY": 5.23015873015873
+      },
+      "className": "Stage",
+      "children": [
+        {
+          "attrs": { "name": "backgroundLayer" },
+          "className": "Layer",
+          "children": [
+            {
+              "attrs": {
+                "width": 1318,
+                "height": 753.1428571428571,
+                "fill": "#171717",
+                "name": "stageBackground",
+                "scaleX": 5.23015873015873,
+                "scaleY": 5.23015873015873
+              },
+              "className": "Rect"
+            }
+          ]
+        },
+        {
+          "attrs": { "name": "gridLayer" },
+          "className": "Layer",
+          "children": []
+        },
+        {
+          "attrs": { "name": "rulerLayer" },
+          "className": "Layer",
+          "children": []
+        },
+        {
+          "attrs": { "name": "mainLayer" },
+          "className": "Layer",
+          "children": [
+            {
+              "attrs": {
+                "x": -32.67051008234769,
+                "y": 72.18876404494382,
+                "innerRadius": 22,
+                "outerRadius": 121.97815069997512,
+                "strokeScaleEnabled": false,
+                "angle": 180,
+                "fill": "#FF940E",
+                "stroke": "#3C81F6",
+                "strokeWidth": 0,
+                "draggable": true,
+                "type": "arc",
+                "name": "Arc_1",
+                "rotation": -90.21602024763791,
+                "skewX": -1.210262230183039e-15
+              },
+              "className": "Arc"
+            },
+            {
+              "attrs": {
+                "x": 76.99030014287533,
+                "y": 71.43359187398937,
+                "sides": 6,
+                "radius": 58.1319985468553,
+                "fill": "#171717",
+                "stroke": "#3C81F6",
+                "strokeWidth": 0,
+                "draggable": true,
+                "strokeScaleEnabled": false,
+                "type": "polygon",
+                "name": "Polygon_1",
+                "rotation": 29.999999999999865,
+                "skewX": -2.936958784342224e-15,
+                "shadowBlur": 6
+              },
+              "className": "RegularPolygon"
+            },
+            {
+              "attrs": {
+                "type": "text",
+                "x": 42.66188553370786,
+                "y": 56.04490985137941,
+                "text": "MARK SMITH",
+                "fontFamily": "Open Sans",
+                "fill": "#ffffffff",
+                "stroke": "#000000",
+                "strokeWidth": 0,
+                "draggable": true,
+                "name": "Text_1"
+              },
+              "className": "Text"
+            },
+            {
+              "attrs": {
+                "type": "text",
+                "x": 43.957334094101114,
+                "y": 71.43359187398936,
+                "text": "Co-Founder Brand Name",
+                "fontSize": 6,
+                "fontFamily": "Open Sans",
+                "fill": "#ffffffff",
+                "stroke": "#000000",
+                "strokeWidth": 0,
+                "draggable": true,
+                "name": "Text_2"
+              },
+              "className": "Text"
+            },
+            {
+              "attrs": {
+                "type": "svg",
+                "imageSrc": "data:image/svg+xml;base64,PCEtLSBVcGxvYWRlZCB0bzogU1ZHIFJlcG8sIHd3dy5zdmdyZXBvLmNvbSwgVHJhbnNmb3JtZWQgYnk6IFNWRyBSZXBvIE1peGVyIFRvb2xzIC0tPgo8c3ZnIGZpbGw9IiNGRkZGRkYiIHdpZHRoPSI4MDBweCIgaGVpZ2h0PSI4MDBweCIgdmlld0JveD0iLTMgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJtOC4wNzUgMjMuNTJjLTYuODExLTkuODc4LTguMDc1LTEwLjg5MS04LjA3NS0xNC41MiAwLTQuOTcxIDQuMDI5LTkgOS05czkgNC4wMjkgOSA5YzAgMy42MjktMS4yNjQgNC42NC04LjA3NSAxNC41MTYtLjIwNi4yOTQtLjU0My40ODQtLjkyNS40ODRzLS43MTktLjE5LS45MjItLjQ4bC0uMDAyLS4wMDR6bS45MjUtMTAuNzdjMi4wNyAwIDMuNzQ5LTEuNjc5IDMuNzQ5LTMuNzVzLTEuNjc5LTMuNzUtMy43NS0zLjc1LTMuNzUgMS42NzktMy43NSAzLjc1YzAgMi4wNzEgMS42NzkgMy43NSAzLjc1IDMuNzV6Ii8+PC9zdmc+",
+                "draggable": true,
+                "name": "Svg_3",
+                "x": 147.8469563671287,
+                "y": 43.397177547974096,
+                "width": 10,
+                "height": 10,
+                "fill": "#ffffff00"
+              },
+              "className": "Image"
+            },
+            {
+              "attrs": {
+                "type": "svg",
+                "imageSrc": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCg0KPCEtLSBVcGxvYWRlZCB0bzogU1ZHIFJlcG8sIHd3dy5zdmdyZXBvLmNvbSwgVHJhbnNmb3JtZWQgYnk6IFNWRyBSZXBvIE1peGVyIFRvb2xzIC0tPgo8c3ZnIGZpbGw9IiNGRkZGRkYiIGhlaWdodD0iODAwcHgiIHdpZHRoPSI4MDBweCIgdmVyc2lvbj0iMS4xIiBpZD0iTGF5ZXJfMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgDQoJIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCA1MTIgNTEyIiB4bWw6c3BhY2U9InByZXNlcnZlIj4NCjxwYXRoIGQ9Ik00MjYuNyw0NTMuOGwtMzguMS03OS4xYy04LjItMTYuOS0xOC44LTI5LjItMzcuMS0yMS43bC0zNi4xLDEzLjRjLTI4LjksMTMuNC00My4zLDAtNTcuOC0yMC4ybC02NS0xNDcuOQ0KCWMtOC4yLTE2LjktMy45LTMyLjgsMTQuNC00MC4zbDUwLjUtMjAuMmMxOC4zLTcuNiwxNS40LTIzLjQsNy4yLTQwLjNsLTQzLjMtODAuNmMtOC4yLTE2LjktMjUtMjEtNDMuMy0xMy41DQoJYy0zNi42LDE1LjEtNjYuOSwzOC44LTg2LjYsNzMuOWMtMjQsNDIuOS0xMiwxMDIuNi03LjIsMTI3LjdjNC44LDI1LjEsMjEuNiw2OS4xLDQzLjMsMTE0LjJjMjEuNyw0NS4yLDQwLjcsODAuNyw1Ny44LDEwMC44DQoJYzE3LDIwLjEsNTcuOCw3NS4xLDEwOC4zLDg3LjRjNDEuNCwxMCw4Ni4xLDEuNiwxMjIuNy0xMy41QzQzNC44LDQ4Ni43LDQzNC44LDQ3MC44LDQyNi43LDQ1My44eiIvPg0KPC9zdmc+",
+                "draggable": true,
+                "name": "Svg_5",
+                "x": 148.17078651685387,
+                "y": 64.42909749196689,
+                "width": 10,
+                "height": 10,
+                "fill": "#ffffff00"
+              },
+              "className": "Image"
+            },
+            {
+              "attrs": {
+                "type": "svg",
+                "imageSrc": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/PjwhRE9DVFlQRSBzdmcgIFBVQkxJQyAnLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4nICAnaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkJz48IS0tIFVwbG9hZGVkIHRvOiBTVkdSZXBvLCB3d3cuc3ZncmVwby5jb20sIFRyYW5zZm9ybWVkIGJ5OiBTVkdSZXBvIFRvb2xzIC0tPgo8c3ZnIGZpbGw9IiNGRkZGRkYiIHdpZHRoPSIxMDBweCIgaGVpZ2h0PSIxMDBweCIgdmlld0JveD0iMCAwIDMyIDMyIiBzdHlsZT0iZmlsbC1ydWxlOmV2ZW5vZGQ7Y2xpcC1ydWxlOmV2ZW5vZGQ7c3Ryb2tlLWxpbmVqb2luOnJvdW5kO3N0cm9rZS1taXRlcmxpbWl0OjI7IiB2ZXJzaW9uPSIxLjEiIHhtbDpzcGFjZT0icHJlc2VydmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6c2VyaWY9Imh0dHA6Ly93d3cuc2VyaWYuY29tLyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPjxwYXRoIGQ9Ik0zMSwxMGMwLC0xLjMyNiAtMC41MjcsLTIuNTk4IC0xLjQ2NCwtMy41MzZjLTAuOTM4LC0wLjkzNyAtMi4yMSwtMS40NjQgLTMuNTM2LC0xLjQ2NGMtNS4zMjIsMCAtMTQuNjc4LDAgLTIwLDBjLTEuMzI2LC0wIC0yLjU5OCwwLjUyNyAtMy41MzYsMS40NjRjLTAuOTM3LDAuOTM4IC0xLjQ2NCwyLjIxIC0xLjQ2NCwzLjUzNmMwLDMuNDg2IDAsOC41MTQgMCwxMmMtMCwxLjMyNiAwLjUyNywyLjU5OCAxLjQ2NCwzLjUzNmMwLjkzOCwwLjkzNyAyLjIxLDEuNDY0IDMuNTM2LDEuNDY0YzUuMzIyLC0wIDE0LjY3OCwtMCAyMCwtMGMxLjMyNiwwIDIuNTk4LC0wLjUyNyAzLjUzNiwtMS40NjRjMC45MzcsLTAuOTM4IDEuNDY0LC0yLjIxIDEuNDY0LC0zLjUzNmMwLC0zLjQ4NiAwLC04LjUxNCAwLC0xMlptLTI2LjU1NiwtMC4yMjFjLTAsLTAgNS4xNDUsNC4yMzcgOC4zNzIsNi44OTRjMS44NDksMS41MjMgNC41MTksMS41MiA2LjM2NSwtMC4wMDdjMy4yMzcsLTIuNjc3IDguNDEzLC02Ljk1OSA4LjQxMywtNi45NTljMC40MjUsLTAuMzUyIDAuNDg1LC0wLjk4MyAwLjEzMywtMS40MDhjLTAuMzUxLC0wLjQyNSAtMC45ODIsLTAuNDg1IC0xLjQwOCwtMC4xMzNjMCwtMCAtNS4xNzYsNC4yODEgLTguNDEyLDYuOTU5Yy0xLjEwOCwwLjkxNiAtMi43MSwwLjkxOCAtMy44MiwwLjAwNGMwLDAgLTguMzcyLC02Ljg5NCAtOC4zNzIsLTYuODk0Yy0wLjQyNiwtMC4zNTEgLTEuMDU2LC0wLjI5IC0xLjQwNywwLjEzNmMtMC4zNTEsMC40MjYgLTAuMjksMS4wNTcgMC4xMzYsMS40MDhaIi8+PGcgaWQ9Ikljb24iLz48L3N2Zz4=",
+                "draggable": true,
+                "name": "Svg_6",
+                "width": 10,
+                "height": 10,
+                "x": 147.98651685393253,
+                "y": 79.85905138547321,
+                "fill": "#ffffff00"
+              },
+              "className": "Image"
+            },
+            {
+              "attrs": {
+                "type": "svg",
+                "imageSrc": "data:image/svg+xml;base64,PCEtLSBVcGxvYWRlZCB0bzogU1ZHIFJlcG8sIHd3dy5zdmdyZXBvLmNvbSwgVHJhbnNmb3JtZWQgYnk6IFNWRyBSZXBvIE1peGVyIFRvb2xzIC0tPgo8c3ZnIGZpbGw9IiNGRkZGRkYiIHdpZHRoPSI4MDBweCIgaGVpZ2h0PSI4MDBweCIgdmlld0JveD0iMCAwIDI0IDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0yMC45NzggMTMuMjFhMSAxIDAgMCAwLS4zOTYtMS4wMjRsLTE0LTEwYS45OTkuOTk5IDAgMCAwLTEuNTc1LjkzMWwyIDE3YTEgMSAwIDAgMCAxLjc2Ny41MTZsMy42MTItNC40MTYgMy4zNzcgNS40NiAxLjcwMS0xLjA1Mi0zLjM1Ny01LjQyOCA2LjA4OS0xLjIxOGEuOTk1Ljk5NSAwIDAgMCAuNzgyLS43Njl6Ii8+PC9zdmc+",
+                "draggable": true,
+                "name": "Svg_7",
+                "x": 148.55280898876396,
+                "y": 97.59751723642732,
+                "width": 10,
+                "height": 10,
+                "fill": "#ffffff00"
+              },
+              "className": "Image"
+            },
+            {
+              "attrs": {
+                "type": "text",
+                "x": 158.55280898876396,
+                "y": 44.81066069404151,
+                "text": "123, Dummy, Lorem ipsum",
+                "fontSize": 7,
+                "fontFamily": "Open Sans",
+                "fill": "#f4f1f1ff",
+                "stroke": "#000000",
+                "strokeWidth": 0,
+                "draggable": true,
+                "name": "Text_3"
+              },
+              "className": "Text"
+            },
+            {
+              "attrs": {
+                "shouldOverdrawWholeArea": true,
+                "ignoreStroke": true,
+                "name": "transform",
+                "x": 160.8850953520016,
+                "y": 98.73010150609025
+              },
+              "className": "Transformer"
+            },
+            {
+              "attrs": {
+                "type": "text",
+                "x": 158.55280898876396,
+                "y": 65.84258063803429,
+                "text": "+00 1234 5678 234",
+                "fontSize": 7,
+                "fontFamily": "Open Sans",
+                "fill": "#f4f1f1ff",
+                "stroke": "#000000",
+                "strokeWidth": 0,
+                "draggable": true,
+                "name": "Text_3"
+              },
+              "className": "Text"
+            },
+            {
+              "attrs": {
+                "type": "text",
+                "x": 160.81348314606737,
+                "y": 81.27253453154061,
+                "text": "info@email.com",
+                "fontSize": 7,
+                "fontFamily": "Open Sans",
+                "fill": "#f4f1f1ff",
+                "stroke": "#000000",
+                "strokeWidth": 0,
+                "draggable": true,
+                "name": "Text_3"
+              },
+              "className": "Text"
+            },
+            {
+              "attrs": {
+                "type": "text",
+                "x": 160.81348314606737,
+                "y": 99.01100038249473,
+                "text": "www.website.com",
+                "fontSize": 7,
+                "fontFamily": "Open Sans",
+                "fill": "#f4f1f1ff",
+                "stroke": "#000000",
+                "strokeWidth": 0,
+                "draggable": true,
+                "name": "Text_3"
+              },
+              "className": "Text"
+            }
+          ]
+        },
+        {
+          "attrs": { "name": "hiddenLayer" },
+          "className": "Layer",
+          "children": [
+            {
+              "attrs": {
+                "fill": "rgb(60 129 246 / 0.29)",
+                "visible": false,
+                "name": "selectionRectangle",
+                "x": 240.29662921348316,
+                "y": 21.70786516853933
+              },
+              "className": "Rect"
+            }
+          ]
+        }
+      ]
+    },
+    "props": {
+      "pageWidth": 595.28,
+      "pageHeight": 841.89,
+      "layoutPageWidth": 595.28,
+      "layoutPageHeight": 841.89,
+      "pageMargin": 0,
+      "cellHeight": 144,
+      "cellWidth": 252,
+      "layoutCellHeight": 100,
+      "layoutCellWidth": 200,
+      "cellPadding": 0,
+      "pageMarginLeft": 0,
+      "pageMarginTop": 0,
+      "cellPaddingLeft": 0,
+      "cellPaddingTop": 0,
+      "layoutPageMarginLeft": 0,
+      "layoutPageMarginTop": 0,
+      "layoutCellPaddingLeft": 0,
+      "layoutCellPaddingTop": 0,
+      "layoutApplied": false,
+      "unit": "px",
+      "useLayout": false,
+      "numberOfCellPrint": "10",
+      "printQuality": 3,
+      "format": "a4",
+      "printMode": "static",
+      "sheetData": null,
+      "mappedData": [],
+      "enableRuler": false,
+      "enableGrid": false,
+      "enableGuide": false,
+      "icons": [],
+      "zoomScale": 0.1,
+      "woocommerceUrl": "",
+      "woocommerceConsumerKey": null,
+      "woocommerceConsumerSecret": null
+    }
+  }

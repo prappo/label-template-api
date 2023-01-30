@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1111",
+        "type": "template",
+        "preview": "card/templates/template1/preview.png",
+        "path": "card/templates/template1/template.json",
+        "category": "card"
+    },
+    {
+        "id": "1112",
+        "type": "template",
+        "preview": "card/templates/template2/preview.png",
+        "path": "card/templates/template2/template.json",
+        "category": "card"
+    },
+    {
+        "id": "1113",
+        "type": "template",
+        "preview": "card/templates/template3/preview.png",
+        "path": "card/templates/template3/template.json",
+        "category": "card"
+    },
+    {
+        "id": "1234",
+        "type": "template",
+        "preview": "shipping/templates/template1/preview.png",
+        "path": "shipping/templates/template1/template.json",
+        "category": "shipping"
+    },
+    {
+        "id": "1235",
+        "type": "template",
+        "preview": "shipping/templates/template2/preview.png",
+        "path": "shipping/templates/template2/template.json",
+        "category": "shipping"
+    },
+    {
+        "id": "1236",
+        "type": "template",
+        "preview": "shipping/templates/template3/preview.png",
+        "path": "shipping/templates/template3/template.json",
+        "category": "shipping"
+    }
+]
