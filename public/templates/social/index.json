@@ -1,0 +1,35 @@
+[
+    {
+      "id":"social1",
+      "name":"Social Marketing",
+      "type": "template",
+      "preview": "templates/social1/preview.png",
+      "path":"templates/social1/template.json",
+      "category":"social"
+    },
+    {
+      "id":"social2",
+      "name":"Social Marketing",
+      "type": "template",
+      "preview": "templates/social2/preview.png",
+      "path":"templates/social2/template.json",
+      "category":"social"
+    },
+    {
+      "id":"social3",
+      "name":"Social Marketing",
+      "type": "template",
+      "preview": "templates/social3/preview.png",
+      "path":"templates/social3/template.json",
+      "category":"social"
+    },
+    {
+      "id":"social4",
+      "name":"Social Marketing",
+      "type": "template",
+      "preview": "templates/social4/preview.png",
+      "path":"templates/social4/template.json",
+      "category":"social"
+    }
+
+]
