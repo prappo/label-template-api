@@ -1,0 +1,354 @@
+{
+  "type": "template",
+  "preview": "preview.png",
+  "data": {
+    "attrs": {
+      "height": 437.5914893617022,
+      "width": 522.0000000000001,
+      "scaleX": 0.5553191489361703,
+      "scaleY": 0.5553191489361703
+    },
+    "className": "Stage",
+    "children": [
+      {
+        "attrs": { "name": "backgroundLayer" },
+        "className": "Layer",
+        "children": [
+          {
+            "attrs": {
+              "width": 940,
+              "height": 788,
+              "fill": "#ffffff",
+              "name": "stageBackground",
+              "type": "background"
+            },
+            "className": "Rect"
+          }
+        ]
+      },
+      {
+        "attrs": { "name": "gridLayer" },
+        "className": "Layer",
+        "children": []
+      },
+      {
+        "attrs": { "name": "rulerLayer" },
+        "className": "Layer",
+        "children": []
+      },
+      {
+        "attrs": { "name": "mainLayer" },
+        "className": "Layer",
+        "children": [
+          {
+            "attrs": {
+              "x": -46.1214953271028,
+              "y": -19.11369833137835,
+              "width": 1032.2402304665313,
+              "height": 968.5486416814847,
+              "fill": "#ffffffff",
+              "stroke": "#0f0f0f0",
+              "strokeWidth": 1,
+              "strokeScaleEnabled": false,
+              "draggable": true,
+              "type": "rect",
+              "cornerRadius": [0, 0, 0, 0],
+              "name": "Background"
+            },
+            "className": "Rect"
+          },
+          {
+            "attrs": {
+              "x": 770.4391956416043,
+              "y": 199.9021641269642,
+              "radius": 283.69441791548917,
+              "fill": "#cea194ff",
+              "stroke": "black",
+              "strokeWidth": 0,
+              "draggable": true,
+              "type": "circle",
+              "name": "Circle_1",
+              "opacity": 0.35
+            },
+            "className": "Circle"
+          },
+          {
+            "attrs": {
+              "type": "text",
+              "textType": "text",
+              "x": 59.29768532672363,
+              "y": 53.95201499104165,
+              "text": "We Are",
+              "fontSize": 60,
+              "fontFamily": "Actor",
+              "fill": "#303030ff",
+              "stroke": "#000000",
+              "strokeWidth": 0,
+              "draggable": true,
+              "name": "Title_Line_1"
+            },
+            "className": "Text"
+          },
+          {
+            "attrs": {
+              "type": "text",
+              "textType": "text",
+              "x": 59.29768532672393,
+              "y": 113.95201499104175,
+              "text": "Hiring",
+              "fontSize": 160,
+              "fontFamily": "Actor",
+              "fill": "#d35937ff",
+              "stroke": "#000000",
+              "strokeWidth": 0,
+              "draggable": true,
+              "name": "Title_Line_2",
+              "fontStyle": "bold",
+              "width": 429.13635215012056,
+              "height": 157.62039663815708
+            },
+            "className": "Text"
+          },
+          {
+            "attrs": {
+              "type": "text",
+              "textType": "text",
+              "x": 59.29768532672367,
+              "y": 297.2420673986961,
+              "text": "Don't Miss Your Chance to Grow Your with Us.",
+              "fontSize": 25,
+              "fontFamily": "Actor",
+              "fill": "#303030ff",
+              "stroke": "#000000",
+              "strokeWidth": 0,
+              "draggable": true,
+              "name": "Inspirational_Text",
+              "width": 394.14769374500287,
+              "height": 72.32758710778612,
+              "lineHeight": 1.3
+            },
+            "className": "Text"
+          },
+          {
+            "attrs": {
+              "type": "text",
+              "textType": "text",
+              "x": 58.34912213423126,
+              "y": 444.06387176207954,
+              "text": "UI/UX Designer",
+              "fontSize": 40,
+              "fontFamily": "Actor",
+              "fill": "#303030ff",
+              "stroke": "#000000",
+              "strokeWidth": 0,
+              "draggable": true,
+              "name": "Job_Title_1",
+              "fontStyle": "bold"
+            },
+            "className": "Text"
+          },
+          {
+            "attrs": {
+              "type": "text",
+              "textType": "text",
+              "x": 58.34912213423125,
+              "y": 512.1774433924121,
+              "text": "Web Designer",
+              "fontSize": 40,
+              "fontFamily": "Actor",
+              "fill": "#303030ff",
+              "stroke": "#000000",
+              "strokeWidth": 0,
+              "draggable": true,
+              "name": "Job_Title_2",
+              "fontStyle": "bold"
+            },
+            "className": "Text"
+          },
+          {
+            "attrs": {
+              "type": "text",
+              "textType": "text",
+              "x": 54.90516196223768,
+              "y": 577.6762769632593,
+              "text": "Digital Marketer",
+              "fontSize": 40,
+              "fontFamily": "Actor",
+              "fill": "#303030ff",
+              "stroke": "#000000",
+              "strokeWidth": 0,
+              "draggable": true,
+              "name": "Job_Title_3",
+              "fontStyle": "bold"
+            },
+            "className": "Text"
+          },
+          {
+            "attrs": {
+              "type": "text",
+              "textType": "text",
+              "x": 58.34912213423126,
+              "y": 696.2174000694133,
+              "text": "Send Your CV at:",
+              "fontSize": 25,
+              "fontFamily": "Actor",
+              "fill": "#303030ff",
+              "stroke": "#000000",
+              "strokeWidth": 0,
+              "draggable": true,
+              "name": "Send_Your_CV",
+              "width": 176.71778720294662,
+              "height": 28.375572116743978,
+              "lineHeight": 1.3
+            },
+            "className": "Text"
+          },
+          {
+            "attrs": {
+              "type": "text",
+              "textType": "text",
+              "x": 214.5046200546518,
+              "y": 683.3936918749117,
+              "text": "info@example.com",
+              "fontSize": 40,
+              "fontFamily": "Actor",
+              "fill": "#303030ff",
+              "stroke": "#000000",
+              "strokeWidth": 0,
+              "draggable": true,
+              "name": "Email_Address",
+              "width": 341.4374133711704,
+              "height": 54.746781111367895,
+              "lineHeight": 1.3
+            },
+            "className": "Text"
+          },
+          {
+            "attrs": {
+              "x": 940.9911782136754,
+              "y": 786.264129041376,
+              "innerRadius": 192,
+              "outerRadius": 90,
+              "strokeScaleEnabled": false,
+              "angle": 300,
+              "fill": "#d3593780",
+              "stroke": "#3C81F6",
+              "strokeWidth": 0,
+              "draggable": true,
+              "type": "arc",
+              "name": "Circle_Line_1"
+            },
+            "className": "Arc"
+          },
+          {
+            "attrs": {
+              "x": 375.5271767798172,
+              "y": -53.73085545259731,
+              "innerRadius": 151,
+              "outerRadius": 70.13629602508954,
+              "strokeScaleEnabled": false,
+              "angle": 300,
+              "fill": "#d3593780",
+              "stroke": "#3C81F6",
+              "strokeWidth": 0,
+              "draggable": true,
+              "type": "arc",
+              "name": "Circle_Line_1",
+              "rotation": -92.43966134596504,
+              "skewX": -1.9733012740530047e-16
+            },
+            "className": "Arc"
+          },
+          {
+            "attrs": {
+              "type": "svg",
+              "imageSrc": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/PjxzdmcgaWQ9IkxheWVyXzEiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDEwMCAxMDA7IiB2ZXJzaW9uPSIxLjEiIHZpZXdCb3g9IjAgMCAxMDAgMTAwIiB4bWw6c3BhY2U9InByZXNlcnZlIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj48c3R5bGUgdHlwZT0idGV4dC9jc3MiPgoJLnN0MHtmaWxsOiNFRkU3RDI7fQoJLnN0MXtmaWxsOiNGMTVBMjI7fQoJLnN0MntmaWxsOiNGRkZGRkY7fQoJLnN0M3tmaWxsOm5vbmU7fQo8L3N0eWxlPjx0aXRsZS8+PGc+PGcgaWQ9ImZpbGwiPjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik04OC43LDM4Yy0wLjUtMC44LTEtMS42LTEuNi0yLjRjLTEuNy0zLjItMy43LTYuMi02LTljLTUuMy02LjYtMTAuOC0xMy4xLTE3LjgtMThjLTAuNy0wLjUtMS41LTAuOC0yLjMtMC45ICAgIGMtNS43LTQuMS0xMy41LTgtMTguOS0yLjZjLTEuMSwxLjEtMS44LDIuNS0yLjIsNGMtNC4xLDQuOS0yLDEyLjMsMC4yLDE3LjljMC4yLDAuNSwwLjQsMSwwLjYsMS41Yy0wLjUsMC42LTAuOSwxLjItMS4xLDIgICAgYy0xLjQsNC40LTMuNiw4LjQtNi41LDExLjljLTIuOCwzLjMtNi4yLDUuNC03LjUsOS42Yy0wLjEsMC4yLTAuMSwwLjQtMC4xLDAuNmMtNi44LDQtMC42LDEyLjksMywxNy4yYzIuMiwyLjYsNS4yLDUuMiw4LjcsNS43ICAgIGMzLjgsMC42LDUuMy0xLjUsNy41LTRjNS41LTYuMiwxNC40LTcuMywyMi4xLTguNGMwLjUtMC4xLDEtMC4yLDEuNC0wLjRjMS41LDAuNCwzLDAuNSw0LjUsMC4yYzQsMS4yLDguMSwxLjksMTEuNywxLjEgICAgYzEuNi0wLjMsMy4xLTEuMSw0LjItMi4yYzIuMi0wLjEsNC0xLjYsNC41LTMuN0M5NS40LDUwLjcsOTIuNiw0NCw4OC43LDM4eiIvPjxwYXRoIGNsYXNzPSJzdDEiIGQ9Ik00Mi4yLDc1LjZjLTAuMiwwLTAuNCwwLjEtMC42LDAuMWMtMC44LDAtMS40LDAtMiwwYy0xLDAtMiwwLjQtMi44LDAuOWMtMC4yLDAtMC40LTAuMS0wLjYtMC4xICAgIGMtMC44LTEuOS0yLjItMy41LTQtNC41Yy0yLjEtMS4yLTUuNS0xLjgtNi45LTMuOWMtMC4yLTAuNi0wLjUtMS4zLTAuOC0xLjhjLTAuMS0wLjItMC4yLTAuNC0wLjMtMC43Yy0wLjMtMC42LTAuNi0xLjItMS4xLTEuNyAgICBjMC4yLTMuNi0zLjctNy40LTcuOS01LjJjLTUuNywzLTguNywxMC43LTguMywxNi45QzcuMyw4Mi41LDEzLjUsODgsMTkuOCw4OWMzLjQsMC42LDguNi0wLjcsMTIuNC0zLjJjMC43LDAuNiwxLjQsMC45LDIuMywxLjEgICAgYzMsMC42LDYsMS43LDguNiwzLjJjMi40LDEuNCw0LjMsMy43LDcsNC44YzMuNSwxLjQsOC4zLTAuNSwxMS4yLTMuM2MxLjItMC4yLDIuMS0xLjEsMi41LTIuMkM2OC41LDc3LjIsNTAuNCw3NC40LDQyLjIsNzUuNnoiLz48cGF0aCBjbGFzcz0ic3QxIiBkPSJNNzIuNSwzMS4xYy0yLjMtMy4yLTYuOS01LjctMTAuNi0zLjhjLTAuNC0wLjEtMC45LTAuMS0xLjMtMC4xYy0xLjIsMC0yLjMsMC42LTIuOSwxLjcgICAgYy0xLjYsMy4zLDEuMiw2LjksMy4yLDkuNGMxLjMsMS43LDMuNCw0LjYsNS44LDUuN2MwLjEsMC4xLDAuMSwwLjIsMC4yLDAuM2MxLjIsMS4yLDMuNiwxLjQsNC43LDBDNzQuNiw0MC40LDc1LjQsMzUuMiw3Mi41LDMxLjEgICAgeiIvPjxwYXRoIGNsYXNzPSJzdDIiIGQ9Ik0zOC4yLDQxLjNDMzYuNCw0Ny41LDMyLjcsNTMsMjcuNyw1N2MtMS45LDEuNSwwLjgsNC4yLDIuNywyLjdjNS41LTQuNSw5LjUtMTAuNSwxMS41LTE3LjQgICAgQzQyLjYsNDAsMzguOSwzOC45LDM4LjIsNDEuM3oiLz48cGF0aCBjbGFzcz0ic3QyIiBkPSJNNDkuNSwyOS4zYy0xLjUtMi4zLTIuOC00LjctNC4xLTcuMWMtMS4xLTIuMi00LjQtMC4zLTMuMywxLjljMS4yLDIuNCwyLjYsNC44LDQuMSw3LjEgICAgQzQ3LjYsMzMuMyw1MC45LDMxLjQsNDkuNSwyOS4zeiIvPjxwYXRoIGNsYXNzPSJzdDIiIGQ9Ik04Ny4yLDQ5Yy0xLjEtMS41LTIuMS0zLjItMi45LTQuOWMtMC41LTAuOS0xLjctMS4yLTIuNi0wLjdjLTAuOSwwLjUtMS4yLDEuNy0wLjcsMi42ICAgIGMwLjgsMS43LDEuOCwzLjMsMi45LDQuOWMwLjUsMC45LDEuNywxLjIsMi42LDAuN0M4Ny41LDUxLDg3LjgsNDkuOSw4Ny4yLDQ5eiIvPjxwYXRoIGNsYXNzPSJzdDIiIGQ9Ik0xNS43LDY1LjRjLTMuNCwzLjEtNS40LDcuNi0zLjksMTIuMmMwLjgsMi4zLDQuNSwxLjMsMy43LTFjLTEuMS0zLjQsMC40LTYuMywyLjktOC41ICAgIEMyMC4yLDY2LjUsMTcuNSw2My44LDE1LjcsNjUuNHoiLz48L2c+PGcgaWQ9ImxpbmVfY29weSI+PHBhdGggY2xhc3M9InN0MyIgZD0iTTM2LjksODMuNGMtMC4yLDAuMi0wLjQsMC40LTAuNSwwLjZjNi4xLDIuMiwxMS43LDUuNiwxNi40LDEwYzAuMiwwLjIsMC40LDAuNCwwLjcsMC42ICAgIGMwLjEsMC4xLDAuMiwwLjEsMC4zLDAuMWgwYzAuMSwwLDAuMSwwLDAuMi0wLjFjMC4yLTAuMSwwLjQtMC4yLDAuNS0wLjNjMS45LTEuMSwzLjgtMi4yLDUuNi0zLjVjMC42LTAuNCwxLjEtMC44LDEuNS0xLjIgICAgYzAuNC0wLjMsMC42LTAuOCwwLjgtMS4yYzAuMS0wLjIsMC4xLTAuNCwwLjEtMC42YzAtMC43LTAuMy0xLjQtMC44LTJjLTAuOC0wLjktMS44LTEuNi0yLjgtMi4xYy00LjktMi43LTEwLjQtNC4xLTE2LTQuMSAgICBjLTEuMSwwLTIuMSwwLjEtMy4yLDAuMkMzOC44LDgxLDM3LjksODIuMywzNi45LDgzLjR6Ii8+PHBhdGggY2xhc3M9InN0MyIgZD0iTTI0LjYsNjMuMWMxLjEsMi4yLDIuNiw0LjIsNC4zLDZjMS4yLDEuMiwyLjQsMi4zLDMuNywzLjJjMC43LDAuNSwxLjQsMS4xLDIuNCwxLjZMMjMuNSw2MC41ICAgIEMyMy44LDYxLjQsMjQuMiw2Mi4zLDI0LjYsNjMuMXoiLz48cGF0aCBkPSJNNzIuNiw2NC42YzEuMiwwLDIuNCwwLjEsMy41LDAuM2MyLDAuNCw0LDAuNyw2LDAuOGMxLjQsMCwyLjktMC4yLDQuMy0wLjdjMS4xLTAuNCwyLjEtMC44LDMuMS0xLjQgICAgYzEuNy0xLDMuMS0yLjQsNC4xLTQuMWMwLjctMS40LDEuMS0yLjksMS4xLTQuNGMtMC4xLTIuMS0wLjUtNC4yLTEuNC02LjJjLTAuOC0yLjEtMS45LTQuMS0zLTZjLTUuMS04LjctMTMuMy0xOC41LTIxLjYtMjYuMiAgICBDNjQuOCwxMyw2MC43LDkuOCw1Ni4zLDdjLTEuOC0xLjEtMy43LTIuMS01LjctMi44Yy0xLjYtMC43LTMuNC0xLTUuMS0xLjFjLTEuNCwwLTIuOSwwLjQtNC4xLDEuMWMtMSwwLjctMS45LDEuNy0yLjUsMi44ICAgIGMtMC41LDAuOS0xLDEuOS0xLjQsM2MtMSwyLjUtMS41LDUuMS0xLjUsNy44YzAsMS43LDAuMiwzLjQsMC41LDUuMWMwLjMsMS40LDAuNiwyLjYsMC43LDMuMmMwLjIsMC44LDAuMywxLjYsMC4zLDIuNSAgICBjMCwyLjctMC44LDYuMi0zLjUsMTAuN2MtMi41LDQuMy02LjYsOS41LTEyLjksMTUuN2MtMC4zLDAtMC41LDAtMC43LDAuMWMtMi42LDEuMi01LjEsMi44LTcuMiw0LjdjLTEuOSwxLjYtMy41LDMuNS00LjgsNS42ICAgIGMtMS41LDIuNC0yLjQsNS4xLTIuNyw3LjlsMCwwYzAsMC40LTAuMSwxLjEtMC4xLDJjMCwxLjUsMC4yLDMsMC42LDQuNGMwLjUsMS45LDEuNCwzLjcsMi42LDUuMmMxLjUsMS45LDMuNiwzLjMsNS44LDQuMSAgICBjMi4yLDAuOCw0LjUsMS4yLDYuOCwxLjJjMi40LDAsNC44LTAuNCw3LjEtMS4xYzItMC43LDMuOC0xLjYsNS41LTIuOWM2LjMsMiwxMi4xLDUuNCwxNi45LDkuOWMwLjMsMC4zLDAuNywwLjYsMS4xLDAuOSAgICBjMC41LDAuNCwxLjEsMC42LDEuNywwLjZoMC4xYzAuNCwwLDAuOS0wLjEsMS4zLTAuM2MwLjMtMC4xLDAuNi0wLjMsMC45LTAuNGMyLTEuMSwzLjktMi4zLDUuOC0zLjZjMC43LTAuNSwxLjQtMSwyLTEuNiAgICBjMC43LTAuNywxLjItMS41LDEuNS0yLjRjMC4xLTAuNCwwLjItMC45LDAuMi0xLjRjMC0xLjQtMC41LTIuNy0xLjQtMy44Yy0xLTEuMi0yLjMtMi4yLTMuNy0yLjljLTUuMy0yLjktMTEuMy00LjQtMTcuNC00LjQgICAgYy0wLjUsMC0xLDAtMS41LDBjOC45LTcuOSwxNi41LTkuOSwyMC0xMC42QzY2LjUsNjUuMiw2OS43LDY0LjYsNzIuNiw2NC42eiBNNDkuNiw2LjljMy40LDEuNCw2LjYsMy4zLDkuNSw1LjUgICAgYzEwLjMsNy43LDIyLjIsMjAuOSwyOC43LDMxLjljMS4xLDEuOCwyLDMuNiwyLjgsNS42YzAuNywxLjYsMS4xLDMuNCwxLjIsNS4xYzAsMS4xLTAuMiwyLjEtMC43LDMuMWMtMC4yLDAuMy0wLjMsMC42LTAuNSwwLjggICAgYy0wLjEsMC0wLjMtMC4xLTAuNC0wLjFjLTAuMiwwLTAuMywwLTAuNSwwLjFjLTAuMSwwLTAuMiwwLjEtMC4zLDAuMmMtNi0zLjktMTEuNy04LjMtMTYuOS0xMy4xYzAuNy0xLjcsMS41LTMuNSwyLjItNS4yICAgIGMwLjItMC41LDAuNC0xLjEsMC40LTEuNmMwLTAuMSwwLTAuMiwwLTAuM2wwLDBjLTAuMS0wLjYtMC4zLTEuMS0wLjYtMS42bDAsMGMtMi4xLTMuNi00LjktNi44LTguMS05LjRjLTAuMy0wLjMtMC43LTAuNS0xLjEtMC44ICAgIGMtMC41LTAuMy0xLTAuNS0xLjUtMC42Yy0wLjMtMC4xLTAuNi0wLjEtMC45LTAuMWMtMC42LDAtMS4zLDAuMS0xLjksMC4zbC00LjYsMS4xYy0wLjEsMC0wLjIsMC4xLTAuMywwLjEgICAgYy01LTYuNi05LjMtMTMuNy0xMi45LTIxLjJjMCwwLDAuMSwwLDAuMS0wLjFjMC44LTAuNSwxLjYtMC43LDIuNS0wLjdDNDYuOSw2LDQ4LjMsNi4zLDQ5LjYsNi45eiBNNjcuNCwzMi45ICAgIGMwLjYsMC42LDEuMiwxLjMsMS43LDEuOWMtMC4xLDAtMC4xLDAuMS0wLjIsMC4xYy0wLjIsMC4xLTAuNCwwLjEtMC42LDAuMmwtMC4xLDBjLTAuMiwwLTAuMy0wLjItMC41LTAuMyAgICBjLTAuMi0wLjItMC4zLTAuNS0wLjMtMC44bDAsMGMwLTAuMSwwLTAuMywwLTAuNEM2Ny4zLDMzLjMsNjcuMywzMy4xLDY3LjQsMzIuOXogTTY1LjUsMzYuNWMwLjUsMC43LDEuMywxLjEsMi4xLDEuMyAgICBjMC4yLDAsMC41LDAuMSwwLjcsMC4xYzAuNiwwLDEuMi0wLjEsMS43LTAuNGMwLjMtMC4xLDAuNS0wLjIsMC44LTAuNGMwLjMsMC41LDAuNywxLDEsMS42YzAuMSwwLjEsMC4xLDAuMiwwLjIsMC4zbDAsMC4xICAgIGMwLDAsMCwwLjEsMCwwLjFjMCwwLjEtMC4xLDAuMy0wLjIsMC40TDcwLDQzLjljLTQuNC00LjItOC41LTguNy0xMi4zLTEzLjVsMy43LTAuOGMwLjQtMC4xLDAuOC0wLjIsMS4zLTAuMmMwLjEsMCwwLjIsMCwwLjMsMCAgICBjMC4yLDAsMC40LDAuMSwwLjYsMC4yYzAuMywwLjIsMC41LDAuMywwLjgsMC41YzAuMiwwLjIsMC41LDAuNCwwLjcsMC42Yy0wLjMsMC45LTAuNSwxLjktMC42LDIuOWMwLDAuMywwLDAuNiwwLjEsMC45ICAgIEM2NC43LDM1LjIsNjUsMzUuOSw2NS41LDM2LjVMNjUuNSwzNi41eiBNNDAuMSwxMS4xYzAuMy0wLjYsMC41LTEuMiwwLjgtMS44YzEwLjYsMjEuMiwyNi43LDM5LjIsNDYuNiw1Mi4xICAgIGMtMC43LDAuNC0xLjMsMC43LTIsMC45Yy0xLjEsMC40LTIuMiwwLjYtMy4zLDAuNmMtMS44LTAuMS0zLjctMC40LTUuNS0wLjhjLTAuNy0wLjEtMS4zLTAuMi0yLTAuM2MtMC4xLTAuMS0wLjMtMC4yLTAuNC0wLjMgICAgYy0xNC43LTcuNS0yNi41LTE5LjYtMzMuOC0zNC40Yy0wLjEtMC4xLTAuMS0wLjItMC4yLTAuM2MtMC4xLTAuNS0wLjEtMC45LTAuMi0xLjRjLTAuMi0wLjgtMC41LTEuOC0wLjctMy4xICAgIGMtMC4zLTEuNS0wLjQtMy0wLjUtNC41QzM4LjgsMTUuNCwzOS4yLDEzLjIsNDAuMSwxMS4xeiBNMzguMiw3NS44QzM3LjEsNzUuMiwzNiw3NC43LDM1LDc0Yy0wLjktMC42LTEuNy0xLjEtMi40LTEuNiAgICBjLTEuMy0xLTIuNi0yLjEtMy43LTMuMmMtMy4yLTMuMy01LjQtNy4zLTYuNC0xMS44YzYuOC02LjYsMTEuMS0xMi4xLDEzLjktMTYuOGMxLjYtMi42LDIuOC01LjUsMy41LTguNSAgICBjNi45LDEyLjMsMTcsMjIuNiwyOS4zLDI5LjhjLTIuMywwLjMtNC45LDAuOC04LjMsMS40QzU2LjgsNjQuMSw0OC4xLDY2LjUsMzguMiw3NS44eiBNOC40LDczLjVjMC4yLTIuNCwxLTQuNywyLjMtNi43ICAgIGMxLjctMi42LDMuOS00LjksNi41LTYuN2MwLjktMC42LDEuNy0xLjIsMi43LTEuN2MxLjIsNC44LDMuNiw5LjIsNywxMi43YzMsMyw2LjQsNS41LDEwLjIsNy4zYy0wLjcsMS4xLTEuNSwyLjEtMi4zLDMgICAgYy0yLDIuMi00LjUsMy45LTcuMyw0LjhjLTIsMC43LTQuMSwxLTYuMiwxYy0yLDAtMy45LTAuMy01LjgtMWMtMS44LTAuNy0zLjQtMS44LTQuNi0zLjNjLTEtMS4yLTEuNy0yLjYtMi4xLTQuMSAgICBjLTAuMy0xLjItMC41LTIuNS0wLjUtMy43QzguMyw3NC40LDguMyw3My44LDguNCw3My41TDcsNzMuM0w4LjQsNzMuNXogTTU4LjgsODMuN2MxLjEsMC41LDIsMS4yLDIuOCwyLjFjMC41LDAuNiwwLjcsMS4zLDAuOCwyICAgIGMwLDAuMiwwLDAuNC0wLjEsMC42Yy0wLjIsMC41LTAuNCwwLjktMC44LDEuMmMtMC41LDAuNS0xLDAuOS0xLjUsMS4yYy0xLjgsMS4yLTMuNywyLjQtNS42LDMuNWMtMC4yLDAuMS0wLjMsMC4yLTAuNSwwLjMgICAgYy0wLjEsMC0wLjEsMC4xLTAuMiwwLjFoMGMtMC4xLDAtMC4yLTAuMS0wLjMtMC4xYy0wLjItMC4yLTAuNS0wLjQtMC43LTAuNmMtNC43LTQuNC0xMC4zLTcuOC0xNi40LTEwYzAuMi0wLjIsMC40LTAuNCwwLjUtMC42ICAgIGMxLTEuMSwyLTIuMywyLjgtMy43YzEuMS0wLjEsMi4xLTAuMiwzLjItMC4yQzQ4LjQsNzkuNiw1My45LDgxLDU4LjgsODMuN3oiLz48cG9seWdvbiBwb2ludHM9IjY0LjUsMzQuNCA2NC41LDM0LjQgNjQuNSwzNC40ICAgIi8+PC9nPjwvZz48L3N2Zz4=",
+              "draggable": true,
+              "name": "Hand_Mike_Icon",
+              "x": 511.2012987012986,
+              "y": 113.95201499104165,
+              "rotation": 10.111572214558777,
+              "skewX": 1.9699858623493634e-16,
+              "width": 436.1932926195423,
+              "height": 466.0453930478532,
+              "fill": "#ffffff00",
+              "index": 2
+            },
+            "className": "Image"
+          },
+          {
+            "attrs": {
+              "shouldOverdrawWholeArea": true,
+              "ignoreStroke": true,
+              "name": "transform",
+              "x": 214.15052980537115,
+              "y": 678.5191888406539
+            },
+            "className": "Transformer"
+          }
+        ]
+      },
+      {
+        "attrs": { "name": "hiddenLayer" },
+        "className": "Layer",
+        "children": [
+          {
+            "attrs": { "fill": "#FF7B17", "opacity": 0.6, "name": "marker" },
+            "className": "Rect"
+          },
+          {
+            "attrs": {
+              "fill": "rgb(60 129 246 / 0.29)",
+              "visible": false,
+              "name": "selectionRectangle"
+            },
+            "className": "Rect"
+          }
+        ]
+      }
+    ]
+  },
+  "props": {
+    "pageWidth": 940,
+    "pageHeight": 788,
+    "layoutPageWidth": 595.28,
+    "layoutPageHeight": 841.89,
+    "pageMargin": 0,
+    "cellHeight": 788,
+    "cellWidth": 940,
+    "layoutCellHeight": 100,
+    "layoutCellWidth": 200,
+    "cellPadding": 0,
+    "pageMarginLeft": 0,
+    "pageMarginTop": 0,
+    "cellPaddingLeft": 0,
+    "cellPaddingTop": 0,
+    "layoutPageMarginLeft": 0,
+    "layoutPageMarginTop": 0,
+    "layoutCellPaddingLeft": 0,
+    "layoutCellPaddingTop": 0,
+    "layoutApplied": false,
+    "unit": "px",
+    "useLayout": false,
+    "numberOfCellPrint": 2,
+    "printQuality": 3,
+    "format": "a4",
+    "printMode": "static",
+    "sheetData": null,
+    "mappedData": [],
+    "enableRuler": false,
+    "enableGrid": false,
+    "enableGuide": false,
+    "icons": null,
+    "zoomScale": 0.1,
+    "woocommerceUrl": "",
+    "woocommerceConsumerKey": null,
+    "woocommerceConsumerSecret": null,
+    "semitic": "ltr",
+    "defaultLang": "en",
+    "ignoreFirstRow": false,
+    "dataSelection": "printAllData",
+    "selectedData": [],
+    "range": { "from": 1, "to": 4 }
+  }
+}
