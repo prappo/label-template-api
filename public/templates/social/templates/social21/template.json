@@ -1,0 +1,361 @@
+{
+  "type": "template",
+  "preview": "preview.png",
+  "data": {
+    "attrs": {
+      "height": 319.3914893617021,
+      "width": 380.99999999999994,
+      "scaleX": 0.40531914893617016,
+      "scaleY": 0.40531914893617016
+    },
+    "className": "Stage",
+    "children": [
+      {
+        "attrs": { "name": "backgroundLayer" },
+        "className": "Layer",
+        "children": [
+          {
+            "attrs": {
+              "width": 940,
+              "height": 788,
+              "fill": "#ffffff",
+              "name": "stageBackground",
+              "type": "background"
+            },
+            "className": "Rect"
+          }
+        ]
+      },
+      {
+        "attrs": { "name": "gridLayer" },
+        "className": "Layer",
+        "children": []
+      },
+      {
+        "attrs": { "name": "rulerLayer" },
+        "className": "Layer",
+        "children": []
+      },
+      {
+        "attrs": { "name": "mainLayer" },
+        "className": "Layer",
+        "children": [
+          {
+            "attrs": {
+              "x": -31.9422572178477,
+              "y": -56.92286885689222,
+              "width": 1127.1156047464356,
+              "height": 1127.1156047464356,
+              "fill": "#ffffffff",
+              "stroke": "#0f0f0f0",
+              "strokeWidth": 1,
+              "strokeScaleEnabled": false,
+              "draggable": true,
+              "type": "rect",
+              "cornerRadius": [0, 0, 0, 0],
+              "name": "Background"
+            },
+            "className": "Rect"
+          },
+          {
+            "attrs": {
+              "type": "text",
+              "textType": "text",
+              "x": 302.73418753151446,
+              "y": 699.3858386958476,
+              "text": "Class of 20XX",
+              "fontSize": 25,
+              "fontFamily": "Poppins",
+              "fill": "#9624e2ff",
+              "stroke": "#000000",
+              "strokeWidth": 0,
+              "draggable": true,
+              "name": "Year",
+              "width": 334.31020764802264,
+              "height": 34.65953456864401,
+              "align": "center",
+              "lineHeight": 1.4,
+              "fontStyle": "bold"
+            },
+            "className": "Text"
+          },
+          {
+            "attrs": {
+              "type": "svg",
+              "imageSrc": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pjxzdmcgdmlld0JveD0iMCAwIDY0MCA1MTIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTYyMy4xIDEzNi45bC0yODIuNy0xMDEuMmMtMTMuNzMtNC45MS0yOC43LTQuOTEtNDIuNDMgMEwxNi4wNSAxMzYuOUM2LjQzOCAxNDAuNCAwIDE0OS42IDAgMTYwczYuNDM4IDE5LjY1IDE2LjA1IDIzLjA5TDc2LjA3IDIwNC42Yy0xMS44OSAxNS44LTIwLjI2IDM0LjE2LTI0LjU1IDUzLjk1QzQwLjA1IDI2My40IDMyIDI3NC44IDMyIDI4OGMwIDkuOTUzIDQuODE0IDE4LjQ5IDExLjk0IDI0LjM2bC0yNC44MyAxNDlDMTcuNDggNDcxLjEgMjUgNDgwIDM0Ljg5IDQ4MEg5My4xMWM5Ljg4NyAwIDE3LjQxLTguODc5IDE1Ljc4LTE4LjYzbC0yNC44My0xNDlDOTEuMTkgMzA2LjUgOTYgMjk3LjEgOTYgMjg4YzAtMTAuMjktNS4xNzQtMTkuMDMtMTIuNzItMjQuODljNC4yNTItMTcuNzYgMTIuODgtMzMuODIgMjQuOTQtNDcuMDNsMTkwLjYgNjguMjNjMTMuNzMgNC45MSAyOC43IDQuOTEgNDIuNDMgMGwyODIuNy0xMDEuMkM2MzMuNiAxNzkuNiA2NDAgMTcwLjQgNjQwIDE2MFM2MzMuNiAxNDAuNCA2MjMuMSAxMzYuOXpNMzUxLjEgMzE0LjRDMzQxLjcgMzE4LjEgMzMwLjkgMzIwIDMyMCAzMjBjLTEwLjkyIDAtMjEuNjktMS44NjctMzItNS41NTVMMTQyLjggMjYyLjVMMTI4IDQwNS4zQzEyOCA0NDYuNiAyMTMuMSA0ODAgMzIwIDQ4MGMxMDUuMSAwIDE5Mi0zMy40IDE5Mi03NC42N2wtMTQuNzgtMTQyLjlMMzUxLjEgMzE0LjR6Ii8+PC9zdmc+",
+              "draggable": true,
+              "name": "Graduation_Hat",
+              "fill": "#ffffff00",
+              "x": 182.45780149427952,
+              "y": 91.29001289580852,
+              "rotation": -33.46280961416633,
+              "skewX": -4.549207477316766e-16,
+              "width": 126.4209802154671,
+              "height": 100.86780336340512
+            },
+            "className": "Image"
+          },
+          {
+            "attrs": {
+              "type": "text",
+              "textType": "text",
+              "x": 173.36475334678164,
+              "y": 326.3204928249277,
+              "text": "Congratulations on Your Graduation",
+              "fontSize": 50,
+              "fontFamily": "Poppins",
+              "fill": "#9624e2ff",
+              "stroke": "#000000",
+              "strokeWidth": 0,
+              "draggable": true,
+              "name": "Congratulations",
+              "width": 614.7691110039756,
+              "height": 145.86811352165498,
+              "align": "center",
+              "lineHeight": 1.4,
+              "fontStyle": "bold"
+            },
+            "className": "Text"
+          },
+          {
+            "attrs": {
+              "type": "text",
+              "textType": "text",
+              "x": 212.66788923528338,
+              "y": 126.30944327612511,
+              "text": "Jene Doe",
+              "fontSize": 90,
+              "fontFamily": "Poppins",
+              "fill": "#4c4c4cff",
+              "stroke": "#000000",
+              "strokeWidth": 0,
+              "draggable": true,
+              "name": "Name",
+              "width": 536.1628392269715,
+              "height": 99.93404654313404,
+              "align": "center",
+              "lineHeight": 1.4,
+              "fontStyle": "bold"
+            },
+            "className": "Text"
+          },
+          {
+            "attrs": {
+              "type": "text",
+              "textType": "text",
+              "x": 200.71107752827533,
+              "y": 512.3855241663354,
+              "text": "We Are Proud of You.",
+              "fontSize": 25,
+              "fontFamily": "Poppins",
+              "fill": "#000000",
+              "stroke": "#000000",
+              "strokeWidth": 0,
+              "draggable": true,
+              "name": "Wishes",
+              "width": 536.1628392269713,
+              "height": 34.659534568644,
+              "align": "center",
+              "lineHeight": 1.4
+            },
+            "className": "Text"
+          },
+          {
+            "attrs": {
+              "type": "text",
+              "textType": "text",
+              "x": 199.7310596123894,
+              "y": 547.0450587349793,
+              "text": "Business Administration",
+              "fontSize": 35,
+              "fontFamily": "Poppins",
+              "fill": "#000000",
+              "stroke": "#000000",
+              "strokeWidth": 0,
+              "draggable": true,
+              "name": "Department_Name",
+              "width": 536.1628392269715,
+              "height": 38.6155655974011,
+              "align": "center",
+              "lineHeight": 1.4
+            },
+            "className": "Text"
+          },
+          {
+            "attrs": {
+              "type": "text",
+              "textType": "text",
+              "x": 199.7310596123894,
+              "y": 603.8360028002251,
+              "text": "Label Baker University",
+              "fontSize": 25,
+              "fontFamily": "Poppins",
+              "fill": "#000000",
+              "stroke": "#000000",
+              "strokeWidth": 0,
+              "draggable": true,
+              "name": "University_Name",
+              "width": 536.1628392269713,
+              "height": 34.659534568644,
+              "align": "center",
+              "lineHeight": 1.4
+            },
+            "className": "Text"
+          },
+          {
+            "attrs": {
+              "points": [
+                1.8813360555299838,
+                1.8813360555299756,
+                49.41642705858757,
+                24.708213529293676
+              ],
+              "stroke": "#9f37e5",
+              "type": "line",
+              "draggable": true,
+              "name": "Line_1",
+              "x": 581.3649526708264,
+              "y": 713.7296262909855,
+              "rotation": -24.888461710935978,
+              "skewX": 1.50011022265673e-15,
+              "width": 45.72069945308308,
+              "height": 21.955586544752137
+            },
+            "className": "Line"
+          },
+          {
+            "attrs": {
+              "points": [
+                1.8813360555299838,
+                1.8813360555299756,
+                49.41642705858757,
+                24.708213529293676
+              ],
+              "stroke": "#9f37e5",
+              "type": "line",
+              "draggable": true,
+              "name": "Line_1",
+              "x": 314.0644446570627,
+              "y": 713.752544465687,
+              "rotation": -24.888461710935978,
+              "skewX": 1.50011022265673e-15,
+              "width": 45.72069945308308,
+              "height": 21.955586544752137
+            },
+            "className": "Line"
+          },
+          {
+            "attrs": {
+              "x": 1050.1547702741022,
+              "y": 126.30944327612512,
+              "innerRadius": 131.33333333333334,
+              "outerRadius": 262.6666666666667,
+              "strokeScaleEnabled": false,
+              "angle": 300,
+              "fill": "#9624e2ff",
+              "stroke": "#3C81F6",
+              "strokeWidth": 0,
+              "draggable": true,
+              "type": "arc",
+              "name": "Arc_1"
+            },
+            "className": "Arc"
+          },
+          {
+            "attrs": {
+              "x": -118.13350449293966,
+              "y": 655.1715484491922,
+              "innerRadius": 131.33333333333334,
+              "outerRadius": 262.6666666666658,
+              "strokeScaleEnabled": false,
+              "angle": 300,
+              "fill": "#9624e2ff",
+              "stroke": "#3C81F6",
+              "strokeWidth": 0,
+              "draggable": true,
+              "type": "arc",
+              "name": "Arc_1",
+              "rotation": -172.96833387854494,
+              "skewX": -7.077671781985375e-16
+            },
+            "className": "Arc"
+          },
+          {
+            "attrs": {
+              "shouldOverdrawWholeArea": true,
+              "ignoreStroke": true,
+              "name": "transform",
+              "x": -30.708661417322876,
+              "y": -68.75882686214163
+            },
+            "className": "Transformer"
+          }
+        ]
+      },
+      {
+        "attrs": { "name": "hiddenLayer" },
+        "className": "Layer",
+        "children": [
+          {
+            "attrs": { "fill": "#FF7B17", "opacity": 0.6, "name": "marker" },
+            "className": "Rect"
+          },
+          {
+            "attrs": {
+              "fill": "rgb(60 129 246 / 0.29)",
+              "visible": false,
+              "name": "selectionRectangle",
+              "height": 4.321839912861107,
+              "x": 870.9186351706038,
+              "y": 495.9055118110237
+            },
+            "className": "Rect"
+          }
+        ]
+      }
+    ]
+  },
+  "props": {
+    "pageWidth": 940,
+    "pageHeight": 788,
+    "layoutPageWidth": 595.28,
+    "layoutPageHeight": 841.89,
+    "pageMargin": 0,
+    "cellHeight": 788,
+    "cellWidth": 940,
+    "layoutCellHeight": 100,
+    "layoutCellWidth": 200,
+    "cellPadding": 0,
+    "pageMarginLeft": 0,
+    "pageMarginTop": 0,
+    "cellPaddingLeft": 0,
+    "cellPaddingTop": 0,
+    "layoutPageMarginLeft": 0,
+    "layoutPageMarginTop": 0,
+    "layoutCellPaddingLeft": 0,
+    "layoutCellPaddingTop": 0,
+    "layoutApplied": false,
+    "unit": "px",
+    "useLayout": false,
+    "numberOfCellPrint": 2,
+    "printQuality": 3,
+    "format": "a4",
+    "printMode": "static",
+    "sheetData": null,
+    "mappedData": [],
+    "enableRuler": false,
+    "enableGrid": false,
+    "enableGuide": false,
+    "icons": null,
+    "zoomScale": 0.1,
+    "woocommerceUrl": "",
+    "woocommerceConsumerKey": null,
+    "woocommerceConsumerSecret": null,
+    "semitic": "ltr",
+    "defaultLang": "en",
+    "ignoreFirstRow": false,
+    "dataSelection": "printAllData",
+    "selectedData": [],
+    "range": { "from": 1, "to": 4 }
+  }
+}
