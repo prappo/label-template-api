@@ -78,6 +78,102 @@
       "preview": "templates/social11/preview.png",
       "path":"templates/social11/template.json",
       "category":"social"
+    },
+    {
+      "id":"social12",
+      "name":"Social Marketing",
+      "type": "template",
+      "preview": "templates/social12/preview.png",
+      "path":"templates/social12/template.json",
+      "category":"social"
+    },
+    {
+      "id":"social13",
+      "name":"Social Marketing",
+      "type": "template",
+      "preview": "templates/social13/preview.png",
+      "path":"templates/social13/template.json",
+      "category":"social"
+    },
+    {
+      "id":"social14",
+      "name":"Social Marketing",
+      "type": "template",
+      "preview": "templates/social14/preview.png",
+      "path":"templates/social14/template.json",
+      "category":"social"
+    },
+    {
+      "id":"social15",
+      "name":"Social Marketing",
+      "type": "template",
+      "preview": "templates/social15/preview.png",
+      "path":"templates/social15/template.json",
+      "category":"social"
+    },
+    {
+      "id":"social16",
+      "name":"Social Marketing",
+      "type": "template",
+      "preview": "templates/social16/preview.png",
+      "path":"templates/social16/template.json",
+      "category":"social"
+    },
+    {
+      "id":"social17",
+      "name":"Social Marketing",
+      "type": "template",
+      "preview": "templates/social17/preview.png",
+      "path":"templates/social17/template.json",
+      "category":"social"
+    },
+    {
+      "id":"social18",
+      "name":"Social Marketing",
+      "type": "template",
+      "preview": "templates/social18/preview.png",
+      "path":"templates/social18/template.json",
+      "category":"social"
+    },
+    {
+      "id":"social19",
+      "name":"Social Marketing",
+      "type": "template",
+      "preview": "templates/social19/preview.png",
+      "path":"templates/social19/template.json",
+      "category":"social"
+    },
+    {
+      "id":"social20",
+      "name":"Social Marketing",
+      "type": "template",
+      "preview": "templates/social20/preview.png",
+      "path":"templates/social20/template.json",
+      "category":"social"
+    },
+    {
+      "id":"social21",
+      "name":"Social Marketing",
+      "type": "template",
+      "preview": "templates/social21/preview.png",
+      "path":"templates/social21/template.json",
+      "category":"social"
+    },
+    {
+      "id":"social22",
+      "name":"Social Marketing",
+      "type": "template",
+      "preview": "templates/social22/preview.png",
+      "path":"templates/social22/template.json",
+      "category":"social"
+    },
+    {
+      "id":"social23",
+      "name":"Social Marketing",
+      "type": "template",
+      "preview": "templates/social23/preview.png",
+      "path":"templates/social23/template.json",
+      "category":"social"
     }
 
 ]
