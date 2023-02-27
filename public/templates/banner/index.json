@@ -1,0 +1,18 @@
+[
+  {
+    "id": "web1",
+    "name": "Banner",
+    "type": "template",
+    "preview": "templates/web1/preview.png",
+    "path": "templates/web1/template.json",
+    "category": "banner"
+  },
+  {
+    "id": "web2",
+    "name": "Banner",
+    "type": "template",
+    "preview": "templates/web2/preview.png",
+    "path": "templates/web2/template.json",
+    "category": "banner"
+  }
+]
