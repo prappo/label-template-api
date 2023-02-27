@@ -238,6 +238,54 @@
       "preview": "templates/social32/preview.png",
       "path":"templates/social32/template.json",
       "category":"social"
+    },
+    {
+      "id":"social33",
+      "name":"Social Marketing",
+      "type": "template",
+      "preview": "templates/social33/preview.png",
+      "path":"templates/social33/template.json",
+      "category":"social"
+    },
+    {
+      "id":"social34",
+      "name":"Social Marketing",
+      "type": "template",
+      "preview": "templates/social34/preview.png",
+      "path":"templates/social34/template.json",
+      "category":"social"
+    },
+    {
+      "id":"social35",
+      "name":"Social Marketing",
+      "type": "template",
+      "preview": "templates/social35/preview.png",
+      "path":"templates/social35/template.json",
+      "category":"social"
+    },
+    {
+      "id":"social36",
+      "name":"Social Marketing",
+      "type": "template",
+      "preview": "templates/social36/preview.png",
+      "path":"templates/social36/template.json",
+      "category":"social"
+    },
+    {
+      "id":"social37",
+      "name":"Social Marketing",
+      "type": "template",
+      "preview": "templates/social37/preview.png",
+      "path":"templates/social37/template.json",
+      "category":"social"
+    },
+    {
+      "id":"social38",
+      "name":"Social Marketing",
+      "type": "template",
+      "preview": "templates/social38/preview.png",
+      "path":"templates/social38/template.json",
+      "category":"social"
     }
 
 ]
