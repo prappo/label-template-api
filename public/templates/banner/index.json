@@ -54,5 +54,109 @@
     "preview": "templates/web7/preview.png",
     "path": "templates/web7/template.json",
     "category": "banner"
+  },
+  {
+    "id": "web8",
+    "name": "Banner",
+    "type": "template",
+    "preview": "templates/web8/preview.png",
+    "path": "templates/web8/template.json",
+    "category": "banner"
+  },
+  {
+    "id": "web9",
+    "name": "Banner",
+    "type": "template",
+    "preview": "templates/web9/preview.png",
+    "path": "templates/web9/template.json",
+    "category": "banner"
+  },
+  {
+    "id": "web10",
+    "name": "Banner",
+    "type": "template",
+    "preview": "templates/web10/preview.png",
+    "path": "templates/web10/template.json",
+    "category": "banner"
+  },
+  {
+    "id": "web11",
+    "name": "Banner",
+    "type": "template",
+    "preview": "templates/web11/preview.png",
+    "path": "templates/web11/template.json",
+    "category": "banner"
+  },
+  {
+    "id": "web12",
+    "name": "Banner",
+    "type": "template",
+    "preview": "templates/web12/preview.png",
+    "path": "templates/web12/template.json",
+    "category": "banner"
+  },
+  {
+    "id": "web13",
+    "name": "Banner",
+    "type": "template",
+    "preview": "templates/web13/preview.png",
+    "path": "templates/web13/template.json",
+    "category": "banner"
+  },
+  {
+    "id": "web14",
+    "name": "Banner",
+    "type": "template",
+    "preview": "templates/web14/preview.png",
+    "path": "templates/web14/template.json",
+    "category": "banner"
+  },
+  {
+    "id": "web15",
+    "name": "Banner",
+    "type": "template",
+    "preview": "templates/web15/preview.png",
+    "path": "templates/web15/template.json",
+    "category": "banner"
+  },
+  {
+    "id": "web16",
+    "name": "Banner",
+    "type": "template",
+    "preview": "templates/web16/preview.png",
+    "path": "templates/web16/template.json",
+    "category": "banner"
+  },
+  {
+    "id": "web17",
+    "name": "Banner",
+    "type": "template",
+    "preview": "templates/web17/preview.png",
+    "path": "templates/web17/template.json",
+    "category": "banner"
+  },
+  {
+    "id": "web18",
+    "name": "Banner",
+    "type": "template",
+    "preview": "templates/web18/preview.png",
+    "path": "templates/web18/template.json",
+    "category": "banner"
+  },
+  {
+    "id": "web19",
+    "name": "Banner",
+    "type": "template",
+    "preview": "templates/web19/preview.png",
+    "path": "templates/web19/template.json",
+    "category": "banner"
+  },
+  {
+    "id": "web20",
+    "name": "Banner",
+    "type": "template",
+    "preview": "templates/web20/preview.png",
+    "path": "templates/web20/template.json",
+    "category": "banner"
   }
 ]
