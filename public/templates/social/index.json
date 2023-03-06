@@ -286,6 +286,161 @@
       "preview": "templates/social38/preview.png",
       "path":"templates/social38/template.json",
       "category":"social"
+    },
+    {
+      "id": "twitter1",
+      "name": "Logo",
+      "type": "template",
+      "preview": "templates/twitter1/preview.png",
+      "path": "templates/twitter1/template.json",
+      "category": "other"
+    },{
+      "id": "twitter2",
+      "name": "Logo",
+      "type": "template",
+      "preview": "templates/twitter2/preview.png",
+      "path": "templates/twitter2/template.json",
+      "category": "other"
+    },{
+      "id": "twitter3",
+      "name": "Logo",
+      "type": "template",
+      "preview": "templates/twitter3/preview.png",
+      "path": "templates/twitter3/template.json",
+      "category": "other"
+    },{
+      "id": "twitter4",
+      "name": "Logo",
+      "type": "template",
+      "preview": "templates/twitter4/preview.png",
+      "path": "templates/twitter4/template.json",
+      "category": "other"
+    },{
+      "id": "twitter5",
+      "name": "Logo",
+      "type": "template",
+      "preview": "templates/twitter5/preview.png",
+      "path": "templates/twitter5/template.json",
+      "category": "other"
+    },{
+      "id": "twitter6",
+      "name": "Logo",
+      "type": "template",
+      "preview": "templates/twitter6/preview.png",
+      "path": "templates/twitter6/template.json",
+      "category": "other"
+    },{
+      "id": "twitter7",
+      "name": "Logo",
+      "type": "template",
+      "preview": "templates/twitter7/preview.png",
+      "path": "templates/twitter7/template.json",
+      "category": "other"
+    },{
+      "id": "twitter8",
+      "name": "Logo",
+      "type": "template",
+      "preview": "templates/twitter8/preview.png",
+      "path": "templates/twitter8/template.json",
+      "category": "other"
+    },{
+      "id": "twitter9",
+      "name": "Logo",
+      "type": "template",
+      "preview": "templates/twitter9/preview.png",
+      "path": "templates/twitter9/template.json",
+      "category": "other"
+    },{
+      "id": "twitter10",
+      "name": "Logo",
+      "type": "template",
+      "preview": "templates/twitter10/preview.png",
+      "path": "templates/twitter10/template.json",
+      "category": "other"
+    },{
+      "id": "twitter11",
+      "name": "Logo",
+      "type": "template",
+      "preview": "templates/twitter11/preview.png",
+      "path": "templates/twitter11/template.json",
+      "category": "other"
+    },{
+      "id": "twitter12",
+      "name": "Logo",
+      "type": "template",
+      "preview": "templates/twitter12/preview.png",
+      "path": "templates/twitter12/template.json",
+      "category": "other"
+    },{
+      "id": "twitter13",
+      "name": "Logo",
+      "type": "template",
+      "preview": "templates/twitter13/preview.png",
+      "path": "templates/twitter13/template.json",
+      "category": "other"
+    },{
+      "id": "twitter14",
+      "name": "Logo",
+      "type": "template",
+      "preview": "templates/twitter14/preview.png",
+      "path": "templates/twitter14/template.json",
+      "category": "other"
+    },{
+      "id": "twitter15",
+      "name": "Logo",
+      "type": "template",
+      "preview": "templates/twitter15/preview.png",
+      "path": "templates/twitter15/template.json",
+      "category": "other"
+    },{
+      "id": "twitter16",
+      "name": "Logo",
+      "type": "template",
+      "preview": "templates/twitter16/preview.png",
+      "path": "templates/twitter16/template.json",
+      "category": "other"
+    },{
+      "id": "twitter17",
+      "name": "Logo",
+      "type": "template",
+      "preview": "templates/twitter17/preview.png",
+      "path": "templates/twitter17/template.json",
+      "category": "other"
+    },{
+      "id": "twitter18",
+      "name": "Logo",
+      "type": "template",
+      "preview": "templates/twitter18/preview.png",
+      "path": "templates/twitter18/template.json",
+      "category": "other"
+    },{
+      "id": "twitter19",
+      "name": "Logo",
+      "type": "template",
+      "preview": "templates/twitter19/preview.png",
+      "path": "templates/twitter19/template.json",
+      "category": "other"
+    },{
+      "id": "twitter20",
+      "name": "Logo",
+      "type": "template",
+      "preview": "templates/twitter20/preview.png",
+      "path": "templates/twitter20/template.json",
+      "category": "other"
+    },{
+      "id": "twitter21",
+      "name": "Logo",
+      "type": "template",
+      "preview": "templates/twitter21/preview.png",
+      "path": "templates/twitter21/template.json",
+      "category": "other"
+    },{
+      "id": "twitter22",
+      "name": "Logo",
+      "type": "template",
+      "preview": "templates/twitter22/preview.png",
+      "path": "templates/twitter22/template.json",
+      "category": "other"
     }
 
 ]
