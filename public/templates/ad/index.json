@@ -1,0 +1,101 @@
+[
+    {
+        "id": "ad1",
+        "name": "Ad",
+        "type": "template",
+        "preview": "templates/ad1/preview.png",
+        "path": "templates/ad1/template.json",
+        "category": "ad"
+      },{
+        "id": "ad2",
+        "name": "Ad",
+        "type": "template",
+        "preview": "templates/ad2/preview.png",
+        "path": "templates/ad2/template.json",
+        "category": "ad"
+      },{
+        "id": "ad3",
+        "name": "Ad",
+        "type": "template",
+        "preview": "templates/ad3/preview.png",
+        "path": "templates/ad3/template.json",
+        "category": "ad"
+      },{
+        "id": "ad4",
+        "name": "Ad",
+        "type": "template",
+        "preview": "templates/ad4/preview.png",
+        "path": "templates/ad4/template.json",
+        "category": "ad"
+      },{
+        "id": "ad5",
+        "name": "Ad",
+        "type": "template",
+        "preview": "templates/ad5/preview.png",
+        "path": "templates/ad5/template.json",
+        "category": "ad"
+      },{
+        "id": "ad6",
+        "name": "Ad",
+        "type": "template",
+        "preview": "templates/ad6/preview.png",
+        "path": "templates/ad6/template.json",
+        "category": "ad"
+      },{
+        "id": "ad7",
+        "name": "Ad",
+        "type": "template",
+        "preview": "templates/ad7/preview.png",
+        "path": "templates/ad7/template.json",
+        "category": "ad"
+      },{
+        "id": "ad8",
+        "name": "Ad",
+        "type": "template",
+        "preview": "templates/ad8/preview.png",
+        "path": "templates/ad8/template.json",
+        "category": "ad"
+      },{
+        "id": "ad9",
+        "name": "Ad",
+        "type": "template",
+        "preview": "templates/ad9/preview.png",
+        "path": "templates/ad9/template.json",
+        "category": "ad"
+      },{
+        "id": "ad10",
+        "name": "Ad",
+        "type": "template",
+        "preview": "templates/ad10/preview.png",
+        "path": "templates/ad10/template.json",
+        "category": "ad"
+      },{
+        "id": "ad11",
+        "name": "Ad",
+        "type": "template",
+        "preview": "templates/ad11/preview.png",
+        "path": "templates/ad11/template.json",
+        "category": "ad"
+      },{
+        "id": "ad12",
+        "name": "Ad",
+        "type": "template",
+        "preview": "templates/ad12/preview.png",
+        "path": "templates/ad12/template.json",
+        "category": "ad"
+      },{
+        "id": "ad13",
+        "name": "Ad",
+        "type": "template",
+        "preview": "templates/ad13/preview.png",
+        "path": "templates/ad13/template.json",
+        "category": "ad"
+      },{
+        "id": "ad14",
+        "name": "Ad",
+        "type": "template",
+        "preview": "templates/ad14/preview.png",
+        "path": "templates/ad14/template.json",
+        "category": "ad"
+      }
+]
