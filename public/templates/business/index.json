@@ -1,0 +1,50 @@
+[
+    {
+        "id":"business1",
+        "name":"Business",
+        "type": "template",
+        "preview": "templates/business1/preview.png",
+        "path":"templates/business1/template.json",
+        "category":"business"
+      },
+      {
+        "id":"business2",
+        "name":"Business",
+        "type": "template",
+        "preview": "templates/business2/preview.png",
+        "path":"templates/business2/template.json",
+        "category":"business"
+      },
+      {
+        "id":"business3",
+        "name":"Business",
+        "type": "template",
+        "preview": "templates/business3/preview.png",
+        "path":"templates/business3/template.json",
+        "category":"business"
+      },
+      {
+        "id":"business4",
+        "name":"Business",
+        "type": "template",
+        "preview": "templates/business4/preview.png",
+        "path":"templates/business4/template.json",
+        "category":"business"
+      },
+      {
+        "id":"business5",
+        "name":"Business",
+        "type": "template",
+        "preview": "templates/business5/preview.png",
+        "path":"templates/business5/template.json",
+        "category":"business"
+      },
+      {
+        "id":"business6",
+        "name":"Business",
+        "type": "template",
+        "preview": "templates/business6/preview.png",
+        "path":"templates/business6/template.json",
+        "category":"business"
+      }
+]

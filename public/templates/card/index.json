@@ -1,0 +1,34 @@
+[
+    {
+        "id":"card1",
+        "name":"Card",
+        "type": "template",
+        "preview": "templates/card1/preview.png",
+        "path":"templates/card1/template.json",
+        "category":"card"
+      },
+      {
+        "id":"card2",
+        "name":"Card",
+        "type": "template",
+        "preview": "templates/card2/preview.png",
+        "path":"templates/card2/template.json",
+        "category":"card"
+      },
+      {
+        "id":"card3",
+        "name":"Card",
+        "type": "template",
+        "preview": "templates/card3/preview.png",
+        "path":"templates/card3/template.json",
+        "category":"card"
+      },
+      {
+        "id":"card4",
+        "name":"Card",
+        "type": "template",
+        "preview": "templates/card4/preview.png",
+        "path":"templates/card4/template.json",
+        "category":"card"
+      }
+]
