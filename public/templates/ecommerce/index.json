@@ -1,0 +1,26 @@
+[
+    {
+        "id":"ecom1",
+        "name":"Ecommmerce",
+        "type": "template",
+        "preview": "templates/ecom1/preview.png",
+        "path":"templates/ecom1/template.json",
+        "category":"ecommerce"
+      },
+      {
+        "id":"ecom2",
+        "name":"Ecommmerce",
+        "type": "template",
+        "preview": "templates/ecom2/preview.png",
+        "path":"templates/ecom2/template.json",
+        "category":"ecommerce"
+      },
+      {
+        "id":"ecom3",
+        "name":"Ecommmerce",
+        "type": "template",
+        "preview": "templates/ecom3/preview.png",
+        "path":"templates/ecom3/template.json",
+        "category":"ecommerce"
+      }
+]

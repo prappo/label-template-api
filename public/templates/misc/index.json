@@ -1,0 +1,58 @@
+[
+  {
+    "id": "other1",
+    "name": "Misc",
+    "type": "template",
+    "preview": "templates/other1/preview.png",
+    "path": "templates/other1/template.json",
+    "category": "misc"
+  },
+  {
+    "id": "other2",
+    "name": "Misc",
+    "type": "template",
+    "preview": "templates/other2/preview.png",
+    "path": "templates/other2/template.json",
+    "category": "misc"
+  },
+  {
+    "id": "other3",
+    "name": "Misc",
+    "type": "template",
+    "preview": "templates/other3/preview.png",
+    "path": "templates/other3/template.json",
+    "category": "misc"
+  },
+  {
+    "id": "other4",
+    "name": "Misc",
+    "type": "template",
+    "preview": "templates/other4/preview.png",
+    "path": "templates/other4/template.json",
+    "category": "misc"
+  },
+  {
+    "id": "other5",
+    "name": "Misc",
+    "type": "template",
+    "preview": "templates/other5/preview.png",
+    "path": "templates/other5/template.json",
+    "category": "misc"
+  },
+  {
+    "id": "other6",
+    "name": "Misc",
+    "type": "template",
+    "preview": "templates/other6/preview.png",
+    "path": "templates/other6/template.json",
+    "category": "misc"
+  },
+  {
+    "id": "other7",
+    "name": "Misc",
+    "type": "template",
+    "preview": "templates/other7/preview.png",
+    "path": "templates/other7/template.json",
+    "category": "misc"
+  }
+]

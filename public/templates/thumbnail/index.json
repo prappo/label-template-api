@@ -1,0 +1,162 @@
+[
+  {
+    "id": "thumb1",
+    "name": "Thumbnail",
+    "type": "template",
+    "preview": "templates/thumb1/preview.png",
+    "path": "templates/thumb1/template.json",
+    "category": "thumbnail"
+  },
+  {
+    "id": "thumb2",
+    "name": "Thumbnail",
+    "type": "template",
+    "preview": "templates/thumb2/preview.png",
+    "path": "templates/thumb2/template.json",
+    "category": "thumbnail"
+  },
+  {
+    "id": "thumb3",
+    "name": "Thumbnail",
+    "type": "template",
+    "preview": "templates/thumb3/preview.png",
+    "path": "templates/thumb3/template.json",
+    "category": "thumbnail"
+  },
+  {
+    "id": "thumb4",
+    "name": "Thumbnail",
+    "type": "template",
+    "preview": "templates/thumb4/preview.png",
+    "path": "templates/thumb4/template.json",
+    "category": "thumbnail"
+  },
+  {
+    "id": "thumb5",
+    "name": "Thumbnail",
+    "type": "template",
+    "preview": "templates/thumb5/preview.png",
+    "path": "templates/thumb5/template.json",
+    "category": "thumbnail"
+  },
+  {
+    "id": "thumb6",
+    "name": "Thumbnail",
+    "type": "template",
+    "preview": "templates/thumb6/preview.png",
+    "path": "templates/thumb6/template.json",
+    "category": "thumbnail"
+  },
+  {
+    "id": "thumb7",
+    "name": "Thumbnail",
+    "type": "template",
+    "preview": "templates/thumb7/preview.png",
+    "path": "templates/thumb7/template.json",
+    "category": "thumbnail"
+  },
+  {
+    "id": "thumb8",
+    "name": "Thumbnail",
+    "type": "template",
+    "preview": "templates/thumb8/preview.png",
+    "path": "templates/thumb8/template.json",
+    "category": "thumbnail"
+  },
+  {
+    "id": "thumb9",
+    "name": "Thumbnail",
+    "type": "template",
+    "preview": "templates/thumb9/preview.png",
+    "path": "templates/thumb9/template.json",
+    "category": "thumbnail"
+  },
+  {
+    "id": "thumb10",
+    "name": "Thumbnail",
+    "type": "template",
+    "preview": "templates/thumb10/preview.png",
+    "path": "templates/thumb10/template.json",
+    "category": "thumbnail"
+  },
+  {
+    "id": "thumb11",
+    "name": "Thumbnail",
+    "type": "template",
+    "preview": "templates/thumb11/preview.png",
+    "path": "templates/thumb11/template.json",
+    "category": "thumbnail"
+  },
+  {
+    "id": "thumb12",
+    "name": "Thumbnail",
+    "type": "template",
+    "preview": "templates/thumb12/preview.png",
+    "path": "templates/thumb12/template.json",
+    "category": "thumbnail"
+  },
+  {
+    "id": "thumb13",
+    "name": "Thumbnail",
+    "type": "template",
+    "preview": "templates/thumb13/preview.png",
+    "path": "templates/thumb13/template.json",
+    "category": "thumbnail"
+  },
+  {
+    "id": "thumb14",
+    "name": "Thumbnail",
+    "type": "template",
+    "preview": "templates/thumb14/preview.png",
+    "path": "templates/thumb14/template.json",
+    "category": "thumbnail"
+  },
+  {
+    "id": "thumb15",
+    "name": "Thumbnail",
+    "type": "template",
+    "preview": "templates/thumb15/preview.png",
+    "path": "templates/thumb15/template.json",
+    "category": "thumbnail"
+  },
+  {
+    "id": "thumb16",
+    "name": "Thumbnail",
+    "type": "template",
+    "preview": "templates/thumb16/preview.png",
+    "path": "templates/thumb16/template.json",
+    "category": "thumbnail"
+  },
+  {
+    "id": "thumb17",
+    "name": "Thumbnail",
+    "type": "template",
+    "preview": "templates/thumb17/preview.png",
+    "path": "templates/thumb17/template.json",
+    "category": "thumbnail"
+  },
+  {
+    "id": "thumb18",
+    "name": "Thumbnail",
+    "type": "template",
+    "preview": "templates/thumb18/preview.png",
+    "path": "templates/thumb18/template.json",
+    "category": "thumbnail"
+  },
+  {
+    "id": "thumb19",
+    "name": "Thumbnail",
+    "type": "template",
+    "preview": "templates/thumb19/preview.png",
+    "path": "templates/thumb19/template.json",
+    "category": "thumbnail"
+  },
+  {
+    "id": "thumb20",
+    "name": "Thumbnail",
+    "type": "template",
+    "preview": "templates/thumb20/preview.png",
+    "path": "templates/thumb20/template.json",
+    "category": "thumbnail"
+  }
+]
