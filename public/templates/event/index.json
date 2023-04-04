@@ -1,0 +1,34 @@
+[
+    {
+        "id": "event1",
+        "name": "Event",
+        "type": "template",
+        "preview": "templates/event1/preview.png",
+        "path": "templates/event1/template.json",
+        "category": "event"
+      },
+      {
+        "id": "event2",
+        "name": "Event",
+        "type": "template",
+        "preview": "templates/event2/preview.png",
+        "path": "templates/event2/template.json",
+        "category": "event"
+      },
+      {
+        "id": "event3",
+        "name": "Event",
+        "type": "template",
+        "preview": "templates/event3/preview.png",
+        "path": "templates/event3/template.json",
+        "category": "event"
+      },
+      {
+        "id": "event4",
+        "name": "Event",
+        "type": "template",
+        "preview": "templates/event4/preview.png",
+        "path": "templates/event4/template.json",
+        "category": "event"
+      }
+]

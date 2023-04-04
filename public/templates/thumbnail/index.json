@@ -158,5 +158,21 @@
     "preview": "templates/thumb20/preview.png",
     "path": "templates/thumb20/template.json",
     "category": "thumbnail"
+  },
+  {
+    "id": "thumb21",
+    "name": "Thumbnail",
+    "type": "template",
+    "preview": "templates/thumb21/preview.png",
+    "path": "templates/thumb21/template.json",
+    "category": "thumbnail"
+  },
+  {
+    "id": "thumb22",
+    "name": "Thumbnail",
+    "type": "template",
+    "preview": "templates/thumb22/preview.png",
+    "path": "templates/thumb22/template.json",
+    "category": "thumbnail"
   }
 ]

@@ -438,5 +438,13 @@
     "preview": "templates/web54/preview.png",
     "path": "templates/web54/template.json",
     "category": "banner"
+  },
+  {
+    "id": "web55",
+    "name": "Banner",
+    "type": "template",
+    "preview": "templates/web55/preview.png",
+    "path": "templates/web55/template.json",
+    "category": "banner"
   }
 ]
