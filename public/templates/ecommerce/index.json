@@ -22,5 +22,53 @@
         "preview": "templates/ecom3/preview.png",
         "path":"templates/ecom3/template.json",
         "category":"ecommerce"
+      },
+      {
+        "id":"ecom4",
+        "name":"Ecommmerce",
+        "type": "template",
+        "preview": "templates/ecom4/preview.png",
+        "path":"templates/ecom4/template.json",
+        "category":"ecommerce"
+      },
+      {
+        "id":"ecom5",
+        "name":"Ecommmerce",
+        "type": "template",
+        "preview": "templates/ecom5/preview.png",
+        "path":"templates/ecom5/template.json",
+        "category":"ecommerce"
+      },
+      {
+        "id":"ecom6",
+        "name":"Ecommmerce",
+        "type": "template",
+        "preview": "templates/ecom6/preview.png",
+        "path":"templates/ecom6/template.json",
+        "category":"ecommerce"
+      },
+      {
+        "id":"ecom7",
+        "name":"Ecommmerce",
+        "type": "template",
+        "preview": "templates/ecom7/preview.png",
+        "path":"templates/ecom7/template.json",
+        "category":"ecommerce"
+      },
+      {
+        "id":"ecom8",
+        "name":"Ecommmerce",
+        "type": "template",
+        "preview": "templates/ecom8/preview.png",
+        "path":"templates/ecom8/template.json",
+        "category":"ecommerce"
+      },
+      {
+        "id":"ecom9",
+        "name":"Ecommmerce",
+        "type": "template",
+        "preview": "templates/ecom9/preview.png",
+        "path":"templates/ecom9/template.json",
+        "category":"ecommerce"
       }
 ]

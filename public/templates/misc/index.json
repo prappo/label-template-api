@@ -54,5 +54,21 @@
     "preview": "templates/other7/preview.png",
     "path": "templates/other7/template.json",
     "category": "misc"
+  },
+  {
+    "id": "other8",
+    "name": "Misc",
+    "type": "template",
+    "preview": "templates/other8/preview.png",
+    "path": "templates/other8/template.json",
+    "category": "misc"
+  },
+  {
+    "id": "other9",
+    "name": "Misc",
+    "type": "template",
+    "preview": "templates/other9/preview.png",
+    "path": "templates/other9/template.json",
+    "category": "misc"
   }
 ]

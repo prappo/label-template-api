@@ -30,5 +30,53 @@
         "preview": "templates/event4/preview.png",
         "path": "templates/event4/template.json",
         "category": "event"
+      },
+      {
+        "id": "event5",
+        "name": "Event",
+        "type": "template",
+        "preview": "templates/event5/preview.png",
+        "path": "templates/event5/template.json",
+        "category": "event"
+      },
+      {
+        "id": "event6",
+        "name": "Event",
+        "type": "template",
+        "preview": "templates/event6/preview.png",
+        "path": "templates/event6/template.json",
+        "category": "event"
+      },
+      {
+        "id": "event7",
+        "name": "Event",
+        "type": "template",
+        "preview": "templates/event7/preview.png",
+        "path": "templates/event7/template.json",
+        "category": "event"
+      },
+      {
+        "id": "event8",
+        "name": "Event",
+        "type": "template",
+        "preview": "templates/event8/preview.png",
+        "path": "templates/event8/template.json",
+        "category": "event"
+      },
+      {
+        "id": "event9",
+        "name": "Event",
+        "type": "template",
+        "preview": "templates/event9/preview.png",
+        "path": "templates/event9/template.json",
+        "category": "event"
+      },
+      {
+        "id": "event10",
+        "name": "Event",
+        "type": "template",
+        "preview": "templates/event10/preview.png",
+        "path": "templates/event10/template.json",
+        "category": "event"
       }
 ]
