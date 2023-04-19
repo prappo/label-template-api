@@ -5,7 +5,8 @@
     "type": "template",
     "preview": "templates/web1/preview.png",
     "path": "templates/web1/template.json",
-    "category": "banner"
+    "category": "banner",
+    "isPro":"yes"
   },
   {
     "id": "web2",

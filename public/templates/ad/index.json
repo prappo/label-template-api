@@ -34,14 +34,16 @@
         "type": "template",
         "preview": "templates/ad5/preview.png",
         "path": "templates/ad5/template.json",
-        "category": "ad"
+        "category": "ad",
+        "isPro":"yes"
       },{
         "id": "ad6",
         "name": "Ad",
         "type": "template",
         "preview": "templates/ad6/preview.png",
         "path": "templates/ad6/template.json",
-        "category": "ad"
+        "category": "ad",
+        "isPro":"yes"
       },{
         "id": "ad7",
         "name": "Ad",
@@ -62,14 +64,16 @@
         "type": "template",
         "preview": "templates/ad9/preview.png",
         "path": "templates/ad9/template.json",
-        "category": "ad"
+        "category": "ad",
+        "isPro":"yes"
       },{
         "id": "ad10",
         "name": "Ad",
         "type": "template",
         "preview": "templates/ad10/preview.png",
         "path": "templates/ad10/template.json",
-        "category": "ad"
+        "category": "ad",
+        "isPro":"yes"
       },{
         "id": "ad11",
         "name": "Ad",
@@ -83,7 +87,8 @@
         "type": "template",
         "preview": "templates/ad12/preview.png",
         "path": "templates/ad12/template.json",
-        "category": "ad"
+        "category": "ad",
+        "isPro":"yes"
       },{
         "id": "ad13",
         "name": "Ad",
