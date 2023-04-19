@@ -84,6 +84,7 @@ for (let cat in templates) {
         temp.path = cat + '/' + temp.path
         temp.preview = cat + '/' + temp.preview
         temp.props = temp.props
+        temp.isPro = temp.isPro ? temp.isPro : 'no'
         allTemplates.push(temp)
     })
 }
