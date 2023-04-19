@@ -26,7 +26,8 @@
         "type": "template",
         "preview": "templates/ad4/preview.png",
         "path": "templates/ad4/template.json",
-        "category": "ad"
+        "category": "ad",
+        "isPro":"yes"
       },{
         "id": "ad5",
         "name": "Ad",
