@@ -14,7 +14,8 @@
     "type": "template",
     "preview": "templates/web2/preview.png",
     "path": "templates/web2/template.json",
-    "category": "banner"
+    "category": "banner",
+    "isPro":"yes"
   },
   {
     "id": "web3",
@@ -46,7 +47,8 @@
     "type": "template",
     "preview": "templates/web6/preview.png",
     "path": "templates/web6/template.json",
-    "category": "banner"
+    "category": "banner",
+    "isPro":"yes"
   },
   {
     "id": "web7",
@@ -54,7 +56,8 @@
     "type": "template",
     "preview": "templates/web7/preview.png",
     "path": "templates/web7/template.json",
-    "category": "banner"
+    "category": "banner",
+    "isPro":"yes"
   },
   {
     "id": "web8",
@@ -62,7 +65,8 @@
     "type": "template",
     "preview": "templates/web8/preview.png",
     "path": "templates/web8/template.json",
-    "category": "banner"
+    "category": "banner",
+    "isPro":"yes"
   },
   {
     "id": "web9",
