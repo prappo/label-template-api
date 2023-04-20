@@ -29,7 +29,8 @@
       "type": "template",
       "preview": "templates/social4/preview.png",
       "path":"templates/social4/template.json",
-      "category":"social"
+      "category":"social",
+      "isPro":"yes"
     },
     {
       "id":"social5",
@@ -45,7 +46,8 @@
       "type": "template",
       "preview": "templates/social6/preview.png",
       "path":"templates/social6/template.json",
-      "category":"social"
+      "category":"social",
+      "isPro":"yes"
     },
     {
       "id":"social7",
@@ -85,7 +87,8 @@
       "type": "template",
       "preview": "templates/social12/preview.png",
       "path":"templates/social12/template.json",
-      "category":"social"
+      "category":"social",
+      "isPro":"yes"
     },
     {
       "id":"social13",
@@ -93,7 +96,8 @@
       "type": "template",
       "preview": "templates/social13/preview.png",
       "path":"templates/social13/template.json",
-      "category":"social"
+      "category":"social",
+      "isPro":"yes"
     },
     {
       "id":"social14",
@@ -101,7 +105,8 @@
       "type": "template",
       "preview": "templates/social14/preview.png",
       "path":"templates/social14/template.json",
-      "category":"social"
+      "category":"social",
+      "isPro":"yes"
     },
     {
       "id":"social15",
@@ -117,7 +122,8 @@
       "type": "template",
       "preview": "templates/social16/preview.png",
       "path":"templates/social16/template.json",
-      "category":"social"
+      "category":"social",
+      "isPro":"yes"
     },
     {
       "id":"social17",
@@ -125,7 +131,8 @@
       "type": "template",
       "preview": "templates/social17/preview.png",
       "path":"templates/social17/template.json",
-      "category":"social"
+      "category":"social",
+      "isPro":"yes"
     },
     {
       "id":"social18",
@@ -133,7 +140,8 @@
       "type": "template",
       "preview": "templates/social18/preview.png",
       "path":"templates/social18/template.json",
-      "category":"social"
+      "category":"social",
+      "isPro":"yes"
     },
     {
       "id":"social19",
